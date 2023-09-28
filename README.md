@@ -28,7 +28,7 @@ Czyli poradnik dla studentów MiNI
 13. [Harmonogram roku](#Harmonogram-roku)
 14. [Wydział - budynek](#Wydział-budynek)
 15. [Ankietyzacja](#Ankietyzacja)
-16. [Czemu to jest na moich studiach?](#Czemu-to-jest-na-moich-studiach?)
+16. [Czemu to jest na moich studiach?](#Czemu-to-jest-na-moich-studiach)
 17. [PW ma kupione dla studentów sporo rzeczy](#PW-ma-kupione-dla-studentów-sporo-rzeczy)
 18. [Randomowe](#Randomowe)
 19. [TODO](#TODO)
