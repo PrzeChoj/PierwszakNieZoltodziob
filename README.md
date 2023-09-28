@@ -1,7 +1,5 @@
 # **Jak być pierwszakiem, ale nie żółtodziobem?**
 
-Czyli poradnik dla studentów MiNI
-
 **This is still work in progress**
 
 
@@ -320,7 +318,7 @@ Kiedyś na trzecim piętrze przy schodach były coś jakby "pokoje cichej nauki"
 
 W 311 jest 16 kompuerów specjalnie dla studentów i można sobie popracować. Jest tam też tablica zielona, więc można się wspólnie pouczyć. https://ww2.mini.pw.edu.pl/laboratorium/laboratoria/sala218/
 
-W 323 mieszkają informatycy. Można ich odwiedzić jak coś się z komputerami popsuje na wydziale - oni zawsze wiedzą jak to naprawić, bo są GigaChadami. Np. jak macie problem się zalogować. Mogą też pomóc w załatwieniu rzeczy, które PW kupuje dla studentów, patrz rozdział **PW ma kupione dla studentów sporo rzeczy**. Also, oni mają pisaki do białych tablic. Można też wynająć laptopa albo przejściówkę HTML / VGA na czas prezentacji.
+W 323 mieszkają informatycy. Można ich odwiedzić jak coś się z komputerami popsuje na wydziale - oni zawsze wiedzą jak to naprawić, bo są GigaChadami. Np. jak macie problem się zalogować. Mogą też pomóc w załatwieniu rzeczy, które PW kupuje dla studentów, patrz rozdział **PW ma kupione dla studentów dużo rzeczy**. Also, oni mają pisaki do białych tablic. Można też wynająć laptopa albo przejściówkę HTML / VGA na czas prezentacji.
 
 Na wydziale jest system druku czarno-białego. Jedna strona chyba kosztuje coś koło 0.08 wirtualnych zł. Każdy student ma w semestrze przeznaczone 5 wirtualnych zł. Starości i członkowie WRS mają więcej. Doktoranci i pracownicy mają nieskończoność. Drukowanie jest łatwe, ale nie chce mi się opisywać. Skomplikowany opis można znaleźć tutaj: https://ww2.mini.pw.edu.pl/laboratorium/system-druku/
 
@@ -361,16 +359,12 @@ Na koniec semestru w USOS są ankiety, gdzie możesz opisać, co Ci leży na ser
 * Biblioteka PW - papierowe bogactwo Biblioteki jest spore, szczególnie jeśli weźmie się pod uwagę inne filie, jak biblioteka EiTI. Also, [na stronie biblioteki](bg.pw.edu.pl) jest dużo źródeł online we współpracy z innymi bibliotekami.
 * Grammarly - Premium dla studentów. Nie pamiętam jak załatwić
 * EDEN - klaster obliczeniowy na MiNI. Całkiem potężny, bardzo drogi - dziekan się nim chwali. Większość prowadzących ma do niego dostęp i można np. robić obliczenia dla swojej pracy dyplomowej albo jakiegoś artykułu naukowego
-* Github promium / copilot - TODO - jedynie słyszałem ¯\_(ツ)_/¯
-
-
-
+* [Github Pro for Students](https://education.github.com/) - Fajny pakiet narzędzi od Microsoftu (i nie tylko) dla studentów m.in. GH Copilot i Figma Pro. Wystarczy do utworzonego wcześniej konta GitHub dodać maila uczelnianego i wejść na [stronę](https://education.github.com/pack/join), aby aktywować ten pakiet. Czasami mogą poprosić też o skan legitymacji i zdjęcie. Ogólnie warto.
+* InteliJ Educational Edition - Dostajesz wszystkie plusy Enterprise za darmo. Jak coś piszesz w Javie, to jest to livesaver. Warto [dołączyć](https://education.github.com/pack/join) przez Github'a Premium dla studentów, o którym mowa powyżej.
 
 
 ## Randomowe
 Ogłoszenia o rzeczach, które dzieją się na wydziale najszęciej są wysyłane mailem. Sprawdzajcie swoją skrzynkę Outlook regularnie. Rzeczy dla studenów są rzucane przez [WRS na ich FunPage](https://www.facebook.com/groups/1898215117122909/user/100063529845505/), albo na grupę na FB [MiNI ogłoszenia](https://www.facebook.com/groups/miniogloszenia). Niektóre rzecz są na kartkach wieszane na parterze w różnych gablotkach.
-
-
 
 
 
@@ -380,6 +374,5 @@ Ogłoszenia o rzeczach, które dzieją się na wydziale najszęciej są wysyłan
 * Samouczek
 * Erasmus
 * Wrzesień
-* Dziekanat
 
 
