@@ -4,6 +4,36 @@ Czyli poradnik dla studentów MiNI
 **This is still work in progress**
 
 
+## Spis treści
+
+1. [Wstęp](#Wstęp)
+2. [Co to za dokument?](#Co-to-za-dokument)
+3. [Przydatne linki](#Przydatne-linki)
+4. [Podział na grupy dziekańskie](#Podział-na-grupy-dziekańskie)
+5. [Języki + WF](#Języki-WF)
+  * [Języki](#Języki)
+    - [Standardowo](#Standardowo)
+    - [Niestandardowo](#Niestandardowo)
+  * [WF](#WF)
+    - [Standardowo](#Standardowo)
+    - [Niestandardowo](#Niestandardowo)
+6. [Stypendia - kasa](#Stypendia-kasa)
+7. [Indywidualne studiowanie](#Indywidualne-studiowanie)
+8. [Samorząd Studentów Politechniki Warszawskiej - SSPW](#Samorząd-Studentów-Politechniki-Warszawskiej-SSPW)
+  *  [WRS MiNI](#WRS-MiNI)
+9. [Obieraki](#Obieraki)
+10. [AltMiniawa](#AltMiniawa)
+11. [Praca a studia](#Praca-a-studia)
+12. [Plan zajęć](#Plan-zajęć)
+13. [Harmonogram roku](#Harmonogram-roku)
+14. [Wydział - budynek](#Wydział-budynek)
+15. [Ankietyzacja](#Ankietyzacja)
+16. [Czemu to jest na moich studiach?](#Czemu-to-jest-na-moich-studiach?)
+17. [PW ma kupione dla studentów sporo rzeczy](#PW-ma-kupione-dla-studentów-sporo-rzeczy)
+18. [Randomowe](#Randomowe)
+19. [TODO](#TODO)
+
+
 ## Wstęp
 Zostałeś studentem MiNI. Gratulacje! To jednak nie koniec trudności. Ale spokojnie, bo to, czego nauczysz się na tym wydziale, to serio są rzeczy wartościowe i przydatne (w większość). A co za tym idzie, wysoko cenione na rynku pracy.
 
@@ -376,5 +406,4 @@ Ogłoszenia o rzeczach, które dzieją się na wydziale najszęciej są wysyłan
 * Erasmus
 * Wrzesień
 * Dziekanat
-
 
