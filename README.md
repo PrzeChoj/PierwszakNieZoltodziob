@@ -10,7 +10,7 @@ Czyli poradnik dla studentów MiNI
 2. [Co to za dokument?](#Co-to-za-dokument)
 3. [Przydatne linki](#Przydatne-linki)
 4. [Podział na grupy dziekańskie](#Podział-na-grupy-dziekańskie)
-5. [Języki + WF](#Języki-WF)
+5. [Języki + WF](#Języki-+-WF)
    - [Języki](#Języki)
      - [Standardowo](#Standardowo)
      - [Niestandardowo](#Niestandardowo)
