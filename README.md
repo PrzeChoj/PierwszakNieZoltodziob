@@ -10,13 +10,13 @@ Czyli poradnik dla studentów MiNI
 2. [Co to za dokument?](#Co-to-za-dokument)
 3. [Przydatne linki](#Przydatne-linki)
 4. [Podział na grupy dziekańskie](#Podział-na-grupy-dziekańskie)
-5. [Języki + WF](#Języki-WF)
+5. [Języki + WF](#Języki+WF)
    - [Języki](#Języki)
-     - [Standardowo](#Standardowo)
-     - [Niestandardowo](#Niestandardowo)
+     - [Standardowo](#Języki-Standardowo)
+     - [Niestandardowo](#Języki-Niestandardowo)
    - [WF](#WF)
-     - [Standardowo](#Standardowo)
-     - [Niestandardowo](#Niestandardowo)
+     - [Standardowo](#WF-Standardowo)
+     - [Niestandardowo](#WF-Niestandardowo)
 6. [Stypendia - kasa](#Stypendia-kasa)
 7. [Indywidualne studiowanie](#Indywidualne-studiowanie)
 8. [Samorząd Studentów Politechniki Warszawskiej - SSPW](#Samorząd-Studentów-Politechniki-Warszawskiej-SSPW)
@@ -92,11 +92,13 @@ Nie trzeba zostawać Starostą na zawsze xd Można zrezygnować, może być wiel
 Co roku powstają grupy na FB dla studenciaków. Z różnym skutkiem, niektóre są bardzo aktywne, inne bardzo nieaktywne xd
 
 
-<a name="Języki-WF"></a>
+<a name="Języki+WF"></a>
 ## Języki + WF
 Na MiNI to działa tak, że są one w programie studiów wpisane w semestry 2, 3 oraz 4. Prawie wszyscy właśnie na tych semestrach to robią. Oczywiście można skorzystać z tego, co opisane w rozdziale o robieniu przedmiotów na zapas. Jest też możliwość robienia ich później niż w programie studiów - patrz rozdział **Indywidualne studiowanie**.
 
 ### Języki
+
+<a name="Języki-Standardowo"></a>
 #### Standardowo
 SJO ma taką stronkę swoją świętą (sjo.pw.edu.pl) i na niej teoretycznie jest ✨wszystko✨, czego potrzeba, a w praktyce to nigdy nie wiadomo gdzie cokolwiek na tej stronie znaleźć xd Dość powiedzieć, że SJO PW na ocenę na Google 1.2 ⭐ / 5.0 ⭐. Jak chcecie coś załatwić w SJO, to mailem nie polecam, bo potrafią nie odpisać. Można się do nich przejść i mieć nadzieję, że gwiazdy się dobrze ułożą, a ci będą mieli dobry humor, bo bez tego może się nie udać.
 
@@ -120,6 +122,8 @@ Jeśli zaliczyłeś już ACERT, to nie możesz iść na te przygotowawcze. Wydaj
 Zapisy są śmieszne. Przed semestrem o ustalonej godzinie otwierają się zapisy dla całego PW. Obviousely, wszystko działa maksymalnie 30 sekund. Potem pada. Czasem wraca za 30 minut, czasem za 8 godzin. Nie wiadomo, a może pasuje Ci do planu tylko jeden lektorat i masz problem?
 Nie wiem, gdzie są te zapisy. Kiedyś były na jakiejść śmiesznej stronie, a teraz podobno sa na USOSie, ale to musicie sobie sprawdzić.
 
+
+<a name="Języki-Niestandardowo"></a>
 #### Niestandardowo
 Da się zapisać na więcej niż jeden lektorat językowy, jeśli Pani w SJO się zgodzi. Generalnie da się dużo dogadać, jeśli się zgodzą, inna sprawa, że rzadko się zgadzają na cokolwiek xd
 
@@ -128,12 +132,16 @@ Ja sobie zrobiłem tak, że zapisałem się na jeden lektorat i (zgodnie z **rez
 Można zaliczyć jakimś innym certyfikatem, ale znów to zależy od ich humoru. Koleżanka mi mówiła, że miała certyfikat na C2, a była zapisana na przedmiot z C1 i prowadzący postawił jej za ten certyfikat 3. Żeby mieć więcej musiała zrobić prezentację, więc równie dobrze mogłaby zaliczyć ten przedmiot standardowo.
 
 ### WF
+
+<a name="WF-Standardowo"></a>
 #### Standardowo
 Są darmowe WFy jak koszykówka, basen, judo, aerobik, joga, box, kulturystyka, kickboxing i inne. Zapisy są na USOSie i też jak się otwierają, to wywala serwer xd. Na nich trzeba ćwiczyć na 11 z 13 zajęć, żeby Ci zaliczyli.
 
 Są też WFy płatne jak golf, wspinaczka, taniec (Rivera) itp. Na nich zazwyczaj nie trzeba ćwiczyć, żeby Ci zaliczyli. Praktyka mówi, że jak płacisz, to jakoś można się dogadać.
 
 Są narty i jakieś chodzenie i to jest inne, bo są tylko 2 wyjścia w semestrze zamiast 13. Doświadczenie pokazuje, że szybko się w tym kończą miejsca.
+
+<a name="WF-Niestandardowo"></a>
 #### Niestandardowo
 Podobno można się wesoło zapisać do jakiejś sekcji sportowej i tam są normalnie treningi co tydzień jak normalny WF. Nie wiem, czym to się różni, ale wiem, że mało osób tak robi.
 
