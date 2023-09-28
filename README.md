@@ -1,7 +1,7 @@
 # **Jak być pierwszakiem, ale nie żółtodziobem?**
 Czyli poradnik dla studentów MiNI
 
-**This is still work in progress**
+*This is still work in progress*
 
 
 ## Wstęp
@@ -33,30 +33,38 @@ Rozdziały są w losowej kolejności - w zależności od tego, jak chciało mi s
 
 
 ## Przydatne linki
-1. AltMiniawa - grupa memowa na FB https://www.facebook.com/groups/altminiawa
-2. Funpage WRS MiNI https://www.facebook.com/wrsminipw
-3. USOS https://usosweb.usos.pw.edu.pl/
+1. [AltMiniawa - grupa memowa na FB](https://www.facebook.com/groups/altminiawa)
+2. [Funpage WRS MiNI](https://www.facebook.com/wrsminipw)
+3. [USOS](https://usosweb.usos.pw.edu.pl/)
 4. Dyski kierunkowe:
-	a) informatyka https://drive.google.com/drive/folders/0B97pxG7p-ByUQzNiUFg4QTZmdmM?resourcekey=0-1LL39dXaXyJmNvMgJ_d4Wg
-	b) IiAD https://drive.google.com/drive/folders/0B97pxG7p-ByUQzNiUFg4QTZmdmM?resourcekey=0-1LL39dXaXyJmNvMgJ_d4Wg
-	c) Matma https://drive.google.com/drive/folders/196mHWFZzX9zaGZwfAbPDNvki3gloK5xK
-5. Losowe książki matematyczne https://www.dropbox.com/sh/35uv9z7hkng810f/AACsZkmFtVgIHpRjVG-xpEa-a?dl=0&fbclid=IwAR0tgHbXKqdUk17d20H2ahFc5fZmmsi3ivlffzN5V8kUAWAk9BKsVpt3CuM
-6. Biblioteka https://bg.pw.edu.pl/
-7. Strona wydziału https://ww2.mini.pw.edu.pl/
-8. Samorząd https://sspw.pl/; Informator Pierwszaka https://sspw.pl/informator/
-9. BIP PW https://www.bip.pw.edu.pl/
-10. Regulamin studiów PW https://www.bip.pw.edu.pl/Wewnetrzne-akty-prawne/Regulaminy/Regulamin-studiow-w-Politechnice-Warszawskiej2
-11. Grupa MiNI ogłoszenia https://www.facebook.com/groups/miniogloszenia/
+	- [informatyka](https://drive.google.com/drive/folders/0B97pxG7p-ByUQzNiUFg4QTZmdmM?resourcekey=0-1LL39dXaXyJmNvMgJ_d4Wg)
+	- [IiAD](https://drive.google.com/drive/folders/0B97pxG7p-ByUQzNiUFg4QTZmdmM?resourcekey=0-1LL39dXaXyJmNvMgJ_d4Wg)
+	- [Matma](https://drive.google.com/drive/folders/196mHWFZzX9zaGZwfAbPDNvki3gloK5xK)
+ 	- [MAD](https://youtu.be/dQw4w9WgXcQ?si=2YamES4AgvAWfebW)
+5. [Losowe książki matematyczne](https://www.dropbox.com/sh/35uv9z7hkng810f/AACsZkmFtVgIHpRjVG-xpEa-a?dl=0&fbclid=IwAR0tgHbXKqdUk17d20H2ahFc5fZmmsi3ivlffzN5V8kUAWAk9BKsVpt3CuM)
+6. [Biblioteka Główna PW](https://bg.pw.edu.pl/)
+7. [Strona wydziału](https://ww2.mini.pw.edu.pl/)
+8. [Samorząd SSPW](https://sspw.pl/); [Informator Pierwszaka](https://sspw.pl/informator/)
+9. [BIP PW](https://www.bip.pw.edu.pl/)
+10. [Regulamin studiów PW](https://www.bip.pw.edu.pl/Wewnetrzne-akty-prawne/Regulaminy/Regulamin-studiow-w-Politechnice-Warszawskiej2)
+11. [Grupa MiNI ogłoszenia](https://www.facebook.com/groups/miniogloszenia/)
 
 
 ## Podział na grupy dziekańskie
 Na MiNI na pierwszym stopniu są 4 kierunki - matma, MAD, IiAD, infa, ale o tym pewnie już wiesz. Na pierwszym roku wiele z tych kierunków ma wspólnie przedmioty. Później miej, ale trochę też. W każdym razie wykłady są wspólnie dla wszystkich, którzy robią dany przedmiot. Ćwiczenia są zazwyczaj w grupach 20 - 30 osobowych. Laboratoria są w salach z komputerami, które są do 16 osób.
+
 Dlatego istnieje podział na grupy dziekańskie (USOS.pl -> Dla studentów -> (po lewej stronie) Moje studia -> (po lewej stronie) Grupy dziekańskie). Która tak z grubsza mówi, z kim będziesz chodził na zajęcia. Trzeba wiedzieć, w jakiej się jest, bo pisze się to czasem w dokumentach, czy innych mailach.
+
 Tradycja nakazuje, żeby każda grupa dziekańska miała swoją grupę na Messnegerze aby ułatwić komunikację. Also, przydaje się, aby jedna osoba była “Starostą”. To jest taka wyznaczona osoba do kontaktu z prowadzącymi i dziekanatem. Przydaje się, bo:
+
 Co semestr trzeba podbić legitymację studencką, to wygodnie jak jedna osoba zbierze całość.
+
 Starosta kontaktuje się z dziekanatem (Pająkiem) jeśli jest jakiś problem w planie zajęć, albo sesji - jakieś zajęcia, albo egzaminy się przypadkiem nakładają.
+
 Starosta jest na grupie Messenger starostów, gdzie są ogłoszenia do przekazania dla studenciaków
+
 Czasem prowadzący na zajęciach/wykładach pytają: “Kto jest starostą, to niech napisze maila/dogada się z wami i mi przekaże/cokolwiek”.
+
 Nie trzeba zostawać Starostą na zawsze xd Można zrezygnować, może być wiele starostów - to ma ułatwić, a nie utrudnić studiowanie.
 
 Co roku powstają grupy na FB dla studenciaków. Z różnym skutkiem, niektóre są bardzo aktywne, inne bardzo nieaktywne xd
@@ -108,73 +116,73 @@ Podobno można się wesoło zapisać do jakiejś sekcji sportowej i tam są norm
 
 
 ## Stypendia - kasa
-SSPW zrobili świetny poradnik stypendialny https://www.bss.pw.edu.pl/Media/Files/Poradnik-Stypendialny11.
+SSPW zrobili świetny [poradnik stypendialny](https://www.bss.pw.edu.pl/Media/Files/Poradnik-Stypendialny11).
 Tu opiszę w skrócie tak, jak ja to widzę, ale polecam przeczytać ten oficjalny poradnik.
 
 1. Jest kilka opcji na dostanie kasy od PW:
-	a) Stypendium Rektora - za wysoką średnią / bycie finalistą olimpiady naukowej / sukcesy naukowe / sukcesy sportowe / sukcesy artystyczne
-	b) Zapomoga - kupiłeś coś potrzebnego Ci, a masz problemy finansowe, to wydział może zwróci Ci część; można złożyć 2 w roku akademickim
-	c) Stypendium Socjalne - za to, że Twoja rodzina mało zarabia
-	d) Stypendium dla niepełnosprawnych - za to, że jesteś niepełnosprawny
-	e) Stypendium Króla - za to, że jesteś sierotą, albo z innego powodu masz trudno
-	f) Inne stypendia - dużo jest stypendiów, polecam się rozejrzeć
-2. Sprawami socjalnymi na naszym wydziale zajmuje się kochana Ewelina Szczęsna.
-3. Przydatne linki:
-	a) Wydziałowa stronka socjalna prowadzona przez Ewelinkę https://ww2.mini.pw.edu.pl/studia/dziekanat/sprawy-socjalne/
-	b) Poradnik stypendialny SSPW - bardzo ładny dokument, polecam https://www.bss.pw.edu.pl/Media/Files/Poradnik-Stypendialny11
-	c) Regulamin przyznawania stypendiów https://www.bss.pw.edu.pl/Media/Files/Regulamin10
-	d) https://www.bss.pw.edu.pl/Stypendia/Stypendia-z-Funduszu-Stypendialnego
+	* Stypendium Rektora - za wysoką średnią / bycie finalistą olimpiady naukowej / sukcesy naukowe / sukcesy sportowe / sukcesy artystyczne
+	* Zapomoga - kupiłeś coś potrzebnego Ci, a masz problemy finansowe, to wydział może zwróci Ci część; można złożyć 2 w roku akademickim
+	* Stypendium Socjalne - za to, że Twoja rodzina mało zarabia
+	* Stypendium dla niepełnosprawnych - za to, że jesteś niepełnosprawny
+	* Stypendium Króla - za to, że jesteś sierotą, albo z innego powodu masz trudno
+	* Inne stypendia - dużo jest stypendiów, polecam się rozejrzeć
+3. Sprawami socjalnymi na naszym wydziale zajmuje się kochana Ewelina Szczęsna.
+4. Przydatne linki:
+	* [Wydziałowa stronka socjalna prowadzona przez kochaną przez wszystkich Ewelinkę](https://ww2.mini.pw.edu.pl/studia/dziekanat/sprawy-socjalne/)
+	* [Poradnik stypendialny SSPW - bardzo ładny dokument, polecam](https://www.bss.pw.edu.pl/Media/Files/Poradnik-Stypendialny11)
+	* [Regulamin przyznawania stypendiów](https://www.bss.pw.edu.pl/Media/Files/Regulamin10)
+	* [Yet another strona z dokumentami](https://www.bss.pw.edu.pl/Stypendia/Stypendia-z-Funduszu-Stypendialnego)
 	
 Bardziej szczegółowe informacje o stypendiach:
 
 1. Rektora
-	a) Studenci są pogrupowani po kierunkach i stopniach.
+	- Studenci są pogrupowani po kierunkach i stopniach.
 		* Jeśli na IiAD na 3cim roku będzie 40 osób ze średnią 5.0, to student IiAD na 2gim roku ze średnią 4.9 nie dostanie stypendium nawet, jeśli będzie najlepszy na swoim roku.
 		* Wyniki średnich na IiAD nie wpływają na wyniki na MAD itd.
 		* Wyniki średnich na pierwszym stopniu matematyki nie wpływa na wyniki na drugim stopniu
 		* Specjalności na magisterce nie mają znaczenia. Na infie MSI oraz CAD/CAM są na jednej liście
 		* Computer Science są razem z polską Informatyką i Systemami Informacyjnymi
-	b) Dostaje maksymalnie 8% studentów danego kierunku
-	c) Lista osób za sukcesy naukowe / artystyczne / sportowe są połączone. Czyli jeśli ktoś ma duży sukces sportowy, to oznacza, że ktoś inny nie dostanie za wyniki w nauce.
-	d) Różnice między stopniami
+	- Dostaje maksymalnie 8% studentów danego kierunku
+	- Lista osób za sukcesy naukowe / artystyczne / sportowe są połączone. Czyli jeśli ktoś ma duży sukces sportowy, to oznacza, że ktoś inny nie dostanie za wyniki w nauce.
+	- Różnice między stopniami
 		* na pierwszym stopniu - na cały rok i składa się w październiku
 		* na drugim stopniu - na jeden semestr i składa się na początku każdego semestru
-	e) Można złożyć zawsze, a punkty za oceny dostanie się tylko, jeśli ma się ponad 4.00. Czyli bez sensu jes składać, jak się ma mnij xd choć technicznie można
-	f) Liczy się średnia ważona po ECTSach.
-	g) Z ocen liczą się 2 ostatnie semestry - przedmioty jakie masz w planie studiów.
+	- Można złożyć zawsze, a punkty za oceny dostanie się tylko, jeśli ma się ponad 4.00. Czyli bez sensu jes składać, jak się ma mnij xd choć technicznie można
+	- Liczy się średnia ważona po ECTSach.
+	- Z ocen liczą się 2 ostatnie semestry - przedmioty jakie masz w planie studiów.
 		* Jeśli powtarzałeś przedmiot, to on się nie liczy
 		* Jeśli robiłeś przedmiot “na zapas”, to się nie liczy. Jeśli kiedyś robiłeś przedmiot “na zapas”, to liczy się on wtedy, kiedy miałeś go wpisanego w planie studiów. Jeśli nie wiesz, o co chodzi w tym punkcie, to patrz rozdział **Indywidualne studiowanie**.
 2. Zapomoga
-	a) Kupujesz to, co tam potrzebujesz, bierzesz fakturę na nazwisko. Potem masz 3 miesiące na złożenie zapomogi.
-	b) Wniosek składa się na USOSie -> Dla wszystkich -> Wnioski -> Wniosek o zapomogę
-	c) Tam trzeba zaznaczyć, że “Przejściowo znalazłem(-am) się w trudnej sytuacji materialnej”, ale nie słyszałem, żeby to jakoś bardzo restrykcyjnie sprawdzali
-	d) Przykładowe rzeczy, na które może być przyznana zapomoga:
+	- Kupujesz to, co tam potrzebujesz, bierzesz fakturę na nazwisko. Potem masz 3 miesiące na złożenie zapomogi.
+	- Wniosek składa się na USOSie -> Dla wszystkich -> Wnioski -> Wniosek o zapomogę
+	- Tam trzeba zaznaczyć, że “Przejściowo znalazłem(-am) się w trudnej sytuacji materialnej”, ale nie słyszałem, żeby to jakoś bardzo restrykcyjnie sprawdzali
+	- Przykładowe rzeczy, na które może być przyznana zapomoga:
 		* Komputer
 		* Część komputerowe - ekran (bo się popsuł), RAM itp
 		* Naprawa zepsutego komputera
 		* Okulary
 		* Leczenie
-	e) Ostateczną decyzję o przyznaniu i wielkości zapomogi dokonuje Wydziałowa Komisja Stypendialna. Część jej członków to studenci, z którymi można pogadać, jeśli się nie wie, czy to, co chcesz kupić, nadaje się na zapomogę. O szczegóły pytaj w WRS.
+	- Ostateczną decyzję o przyznaniu i wielkości zapomogi dokonuje Wydziałowa Komisja Stypendialna. Część jej członków to studenci, z którymi można pogadać, jeśli się nie wie, czy to, co chcesz kupić, nadaje się na zapomogę. O szczegóły pytaj w WRS.
 3. Socjalne
-	a) W 2022/2023 stypendium było dla studentów, których rodzin dochód miesięczny na osobę nie przekraczał 1051.70 PLN
-	b) Sporo papierów trzeba załatwić
+	- W 2022/2023 stypendium było dla studentów, których rodzin dochód miesięczny na osobę nie przekraczał 1051.70 PLN
+	- Sporo papierów trzeba załatwić
 		* Z Urzędu Skarbowego na każdego pełnoletniego członka rodziny
 		* Z ZUSu na każdego pełnoletniego członka rodziny
 		* Oświadczenia o wysokości dochodu na każdego pełnoletniego członka rodziny
 		* Akt urodzenia na każdego niepełnoletniego członka rodziny
 		* Jeśli dochód w rodzinie na osobę na miesiąc jest mniejszy niż 600 PLN, to trzeba złożyć dodatkowo Zaświadczenie z Ośrodka Pomocy Społecznej.
 		* itp. szczegóły na stronie https://ww2.mini.pw.edu.pl/studia/dziekanat/sprawy-socjalne/
-	c) Wysokość minimalną/maksymalną wyznacza Rektor PW, a potem ile dokładnie dostaniesz, to zależy od miesięcznego dochodu na członka rodziny.
-	d) Jak złożysz w pierwszych 2 tygodniach października, to dostaniesz też na październik. Jak złożysz później, to dostaniesz od następnego miesiąca. Można złożyć wniosek w dowolnym miesiącu.
-	e) Przelewy muszą przyjść do końca grudnia - skumulowane za zaległe miesiące, a potem co miesiąc.
-	f) Można składać o zwiększenie i to polega na tym, że jest kilka stówek więcej. Regulamin mówi, że to można dostać na przykład jak ktoś ma przewlekłą chorobę w najbliższej rodzinie, albo “z tytułu zamieszkania w domu studenckim lub … ” ~ § 12
-	g) Jeśli sytuacja materialna się zmieni (Ty się zatrudnisz; ktoś dostanie podwyżkę; stracisz dochód itp.) to trzeba w ciągu miesiąca złożyć poprawkę wniosku
+	- Wysokość minimalną/maksymalną wyznacza Rektor PW, a potem ile dokładnie dostaniesz, to zależy od miesięcznego dochodu na członka rodziny.
+	- Jak złożysz w pierwszych 2 tygodniach października, to dostaniesz też na październik. Jak złożysz później, to dostaniesz od następnego miesiąca. Można złożyć wniosek w dowolnym miesiącu.
+	- Przelewy muszą przyjść do końca grudnia - skumulowane za zaległe miesiące, a potem co miesiąc.
+	- Można składać o zwiększenie i to polega na tym, że jest kilka stówek więcej. Regulamin mówi, że to można dostać na przykład jak ktoś ma przewlekłą chorobę w najbliższej rodzinie, albo “z tytułu zamieszkania w domu studenckim lub … ” ~ § 12
+	- Jeśli sytuacja materialna się zmieni (Ty się zatrudnisz; ktoś dostanie podwyżkę; stracisz dochód itp.) to trzeba w ciągu miesiąca złożyć poprawkę wniosku
 
 
 ## Indywidualne studiowanie
 Jest coś takiego jak plan studiów i zdecydowana większość studentów się go trzyma. Można jednak go modyfikować i dostosowywać do własnych zachcianek.
 
-Najłatwiejszą modyfikację, jaką można zrobić, to zrobić przedmiot na zapas, czyli wcześniej niż plan studiów to przewiduje. Najczęściej obierak. Dajmy na to, że jest sobie jakiś obierak, który chcesz zrobić w semestrze zimowym, ale żeby się liczył jako ten w letnim. Nic prostszego. Składasz sobie ładnie podanie do prodziekana do spraw nauczania (Strona wydziału -> Studia -> DOKUMENTY I FORMULARZE -> Podanie o awanse -> Składać w dziekanacie; https://ww2.mini.pw.edu.pl/studia/dziekanat/dokumenty-i-formularze/ ). I jeżeli dziekan się zgodzi to sztos. Można to robić chyba przez pierwszy tydzień semestru, czy jakoś tak.
+Najłatwiejszą modyfikację, jaką można zrobić, to zrobić przedmiot na zapas, czyli wcześniej niż plan studiów to przewiduje. Najczęściej obierak. Dajmy na to, że jest sobie jakiś obierak, który chcesz zrobić w semestrze zimowym, ale żeby się liczył jako ten w letnim. Nic prostszego. Składasz sobie ładnie podanie do prodziekana do spraw nauczania (Strona wydziału -> Studia -> DOKUMENTY I FORMULARZE -> Podanie o awanse -> Składać w dziekanacie; [ling do wzoru podania](https://ww2.mini.pw.edu.pl/studia/dziekanat/dokumenty-i-formularze/) ). I jeżeli dziekan się zgodzi to sztos. Można to robić chyba przez pierwszy tydzień semestru, czy jakoś tak.
 
 Inną w miarę łatwą rzeczą jest rezygnacja z przedmiotu. Działa to tak, że w pierwszym tygodniu jakąś kartkę tez do dziekanatu zanosicie i po prostu będziecie ten jeden przedmiot robić za rok. Działa to bardzo podobnie do oblania tego przedmiotu, ale nie ma żadnych negatywnych konsekwencji oblania a jedynie te pozytywne. Nadal musicie zdobyć tyle ECTS, ile tam trzeba, żeby dostać się na następny semestr.
 
@@ -184,7 +192,7 @@ Aby całkiem sobie pozamieniać studia można rozważyć Indywidualny Plan Studi
 
 Jest taka furtka na organizowanie indywidualnych przedmiotów. Nazywa się to Przedmiot Literaturowy. Polega to na tym, że podbijasz do pracownika wydziału ze stopniem doktora i mówisz "ciekawi mnie [Tu wstaw dziedzinę nauki]. Dałby mi Pan książkę do przeczytania?". I potem raz na miesiąc sobie po godzinie gadacie o tym. On dostaje trochę kasy z wydziału, a Ty 2 ECTS i 5 do dyplomu. Spora szansa, że potem znajdzie się wam jakiś problem badawczy, jakbyście chcieli coś opublikować wspólnie.
 
-Jest jeszcze coś takiego jak Centrum Studiów Zaawansowanych. Ja do końca nie wiem, jak to działa, ale to są przedmioty dla ludzi na magisterce, albo doktorantów z całego PW. Wydaje mi się, że to co do zasady są po prostu wykłady bez ćwiczeń i na koniec jest egzamin z tego wykładu. Raczej mało ECTS, ale fajne propozycje tam czasem są. http://www.konwersatorium.pw.edu.pl/oferta/w_podstawowe.html
+Jest jeszcze coś takiego jak Centrum Studiów Zaawansowanych. Ja do końca nie wiem, jak to działa, ale to są przedmioty dla ludzi na magisterce, albo doktorantów z całego PW. Wydaje mi się, że to co do zasady są po prostu wykłady bez ćwiczeń i na koniec jest egzamin z tego wykładu. Raczej mało ECTS, ale fajne propozycje tam czasem są. [Link do strony z ofertą](http://www.konwersatorium.pw.edu.pl/oferta/w_podstawowe.html).
 
 Pod ten rozdział podpada też Erasmus, ale ten program zasługuje na własny rozdział.
 
@@ -193,7 +201,7 @@ Pod ten rozdział podpada też Erasmus, ale ten program zasługuje na własny ro
 Duża organizacja. Łączy się ona z innymi podobnymi, ale sama też jest podzielona na wiele mniejszych części. Najogólniej rzecz ujmując, jest to szyld, pod którym działają studenci PW dla dobra wszystkich studentów PW.
 
 Formalnie każdy posiadający prawa studenta na PW jest członkiem SSPW. Można sobie startować do Wydziałowej Rady Samorządu (WRS). Wybory są w okolicach końcówki października. Każdy wydział ma do 15 miejsc w tej radzie. WRS ma swój pokój u nas w tak zwanej “nodze”. Prawie zawsze ktoś tam siedzi i można przyjść z dowolną sprawą dotyczącą studiowania. Po to oni są w WRS, żeby pomagać studentom, więc z tej pomocy śmiało korzystajcie.
-Podstawowe informacje o SSPW i jej komisjach ładnie są opisane w Informatorze Pierwszaka SSPW https://sspw.pl/informator/
+Podstawowe informacje o SSPW i jej komisjach ładnie są opisane w [Informatorze Pierwszaka SSPW](https://sspw.pl/informator/).
 
 ### WRS MiNI
 Posiedzenia WRS są jawne i każdy student MiNI jest na nich mile widziany. Ustalane są tam ważne bieżące sprawy dotyczące naszego wydziału.
@@ -203,7 +211,7 @@ Często WRS szuka ludzi do pomocy. Jeśli chciałbyś podziałać dla dobra wsp�
 Nasz WRS zajmuje się takimi rzeczami jak:
 
 1. Otrzęsiny po wakacjach
-2. Działaniem Funpagea https://www.facebook.com/wrsminipw
+2. Działaniem [Funpagea](https://www.facebook.com/wrsminipw)
 3. Bal na wiosnę
 4. Bluzy wydziałowe
 5. Dekorowanie wydziału w grudniu
@@ -236,7 +244,7 @@ Zachęcam też oczywiście do postowania swoich memów - shitposting mile widzia
 
 Czasem pojawia się jakiś poważniejszy post z pytaniem o studia, jeśli taki masz, to polecam się tam zapytać, ale praktyka pokazuje, że często odpowiedzi jest tam mało. Zapiej zapytać się starszych kolegów albo WRS (patrz rozdział "mam pytanie").
 
-Jest kilka ważnych postów (https://www.facebook.com/groups/altminiawa/permalink/2181835545444353/). Mają one wiele komentarzy. Obieraki, Lektoraty (Języki), WF, promotorzy. Polecam się zapoznać, choć niestety system komentarzy na FB jest tragiczny 😒
+Jest [kilka ważnych postów](https://www.facebook.com/groups/altminiawa/permalink/2181835545444353/). Mają one wiele komentarzy. Obieraki, Lektoraty (Języki), WF, promotorzy. Polecam się zapoznać, choć niestety system komentarzy na FB jest tragiczny 😒
 
 Na tej grupce admini są jacyś losowi i można dostać bana za nic albo nie być przyjętym 🤷‍♂️
 
@@ -250,7 +258,7 @@ Podejście prowadzących do pracujących studentów jest różne - niektórzy po
 
 Kiedy zacząć pracować, to już wasza osobista decyzja zależna od waszych preferencji. Niektórzy wolą zaliczyć sobie studia byle jak i bardziej się skupić na pracy - tam zdobywać doświadczenie. Ja osobiście wolałem całą inżynierkę skupić się 100% na studiach, żeby zbudować sobie porządne podstawy, i dopiero na magisterce zacząłem pracować - bardzo się cieszę, że moja sytuacja finansowa (ledwo) mi na to pozwoliła.
 
-Po więcej informacji jak ułatwić/przedłużyć sobie studia, żeby mieć czas i siłę na pracę, patrz rozdział "łatwe studia" oraz "obronić inżyniera w 23(?) semestry?"
+Po więcej informacji jak ułatwić/przedłużyć sobie studia, żeby mieć czas i siłę na pracę, patrz rozdział **łatwe studia** oraz **obronić inżyniera w 23(?) semestry**.
 
 
 ## Plan zajęć
@@ -258,7 +266,7 @@ Zazwyczaj plan zajęć pojawia się jakoś 2 tygodnie przed rozpoczęciem semest
 
 Jak nie pasuje wam plan, to można złożyć podanie na USOS > Dla Studentów > Podania ePW > Złóż nowe podanie > Podanie o zmianę grupy. Podać szczegóły: z jakiej na jaką grupę chcecie być przepisani; dokładny numer USOS przedmiotu (a nie tylko nawa). Jeśli będzie miejsce w danej grupie, to nie będzie problemu z przepisaniem. Jeśli nie będzie, to najlepiej jakbyście znaleźli kogoś, kto by się z Tobą zamienił, czyli zwolnił Ci miejsce. Czasem można się zapisać nawet do pełnej sali, ale to potrzeba zgody prowadząceg - może się udać, jeśli macie jakiś dobry powód, np. nakładające się inne zajęcia na innej uczelni.
 
-Na MiNI jest sporo okienek w planie zazwyczaj. Studenci z tego aż żarty robią. Była kiedyś strona na FaceBooku (facebook.com/profile.php?id=100068877075416), która codziennie postowała losowy plan z jak największą liczbą okienek XD
+Na MiNI jest sporo okienek w planie zazwyczaj. Studenci z tego aż żarty robią. Była kiedyś [strona na FaceBooku](facebook.com/profile.php?id=100068877075416), która codziennie postowała losowy plan z jak największą liczbą okienek XD
 
 Osoba, która układa plan nazywa się Hubert Pająk i on zajmuje się generalnie całym USOSem. On będzie rozpatrywać podania itd.
 
@@ -266,7 +274,7 @@ Języki i WF trzeba sobie samemu do planu dopasować. Jest bardzo duży wybór, 
 
 
 ## Harmonogram roku
-Na stronie (https://www.pw.edu.pl/Uczelnia/O-nas/Harmonogram-roku-akademickiego) jest harmonogram roku na PW.
+[Na stronie](https://www.pw.edu.pl/Uczelnia/O-nas/Harmonogram-roku-akademickiego) jest harmonogram roku na PW.
 
 W każdym semestrze musi być 15 poniedziałków, 15 wtorków itd. Przez święta itp. normalnie brakowałoby niektórych dni tygodnia. Dlatego czasem np. w piątek może być plan zajęć z wtorku.
 
@@ -276,7 +284,7 @@ Czasem na USOS jest źle napisane - a to prowadzący, a to dzień jest wolny, a 
 
 Na MiNI co do zasady nie ma zajęć w czwartki w godzinach 12-14. Jest to spowodowane tym, że ~ raz w miesiącu jest w tym czasie Rada Wydziału, więc dziekan potrzebuje, żeby prowadzący byli wtedy dostępni. Zdarza się, że zajęcia są, ale to musi się dziekan specjalnie zgodzić na to prowadzącemu.
 
-Czasem dziekan ogłasza Godziny Dziekańskie. Wtedy nie ma zajęć po prostu. Jest to spowodowane jakimś wydarzeniem, np. Wigilia wydziałowa, albo piknik Całkonalia. Zazwyczaj ogłaszane są z jakimś wyprzedzeniem, ale nie zawsze ¯\_(ツ)_/¯
+Czasem dziekan ogłasza Godziny Dziekańskie. Wtedy nie ma zajęć po prostu. Jest to spowodowane jakimś wydarzeniem, np. Wigilia wydziałowa, albo piknik Całkonalia. Zazwyczaj ogłaszane są z jakimś wyprzedzeniem, ale nie zawsze ¯\\_(ツ)_/¯
 
 1 października zaczyna się rok i na rozpoczęcie jest Inauguracja Roku Akademickiego. To jest taka nieobowiązkowa uroczystość na wydziale. Ja polecam się przejść jako pierwszak, bo po samej uroczystości członkowie WRS zazwyczaj coś dla was pogadają jakieś wartościowe life-hacki i są dostępni do pogadania. Najczęściej wybiera się tam też Starostę grupy. Po uroczystości idziemy na Pole Mokotowskie 🍺
 
@@ -293,7 +301,7 @@ Nasz wydział ma wszystkie (poza WF i językami i chyba ostatnio wykładami z fi
 Ostatnio zrobiło się bardzo ciasno, bo budynek był zaprojektowany pod dużo mniej studentów, a zrobiliśmy się jednym z największych wydziałów na PW 🤷‍♂️
 
 Jest 7 kondygnacji:
-* Garaż - nie, nie ma miejsc 😔 zasady dla zainteresowanych: https://ww2.mini.pw.edu.pl/wp-content/uploads/parking_zasady_2013_05_20.pdf
+* Garaż - nie, nie ma miejsc 😔 [zasady dla zainteresowanych](https://ww2.mini.pw.edu.pl/wp-content/uploads/parking_zasady_2013_05_20.pdf)
 * Na parterze jest portiernia szatnia, stołówka, portiernia, dziekanat, finanse, sekretariat, sala obron, WRS (w "nodze"), klub studencki (w "nodze")
 * Na pierwszym piętrze są sale wykładowe, strefa Break;, pokój doktorantów, pokoje kilku kół naukowych (w "nodze"), pokoje sypialne (w "nodze")
 * Na drugim i trzecim piętrze są sale ćwiczeniowe
@@ -317,11 +325,11 @@ Klub Studencki to pierwszy pokój w "nodze". Jest dostępny dla wszystkich stude
 
 Kiedyś na trzecim piętrze przy schodach były coś jakby "pokoje cichej nauki". Umarły po COVIDzie, mam nadzieję, żę wrócą, bo były fajne.
 
-W 311 jest 16 kompuerów specjalnie dla studentów i można sobie popracować. Jest tam też tablica zielona, więc można się wspólnie pouczyć. https://ww2.mini.pw.edu.pl/laboratorium/laboratoria/sala218/
+W 311 jest 16 kompuerów specjalnie dla studentów i można sobie popracować. Jest tam też tablica zielona, więc można się wspólnie pouczyć. [Link z oficjalnymi informacjami](https://ww2.mini.pw.edu.pl/laboratorium/laboratoria/sala218/).
 
 W 323 mieszkają informatycy. Można ich odwiedzić jak coś się z komputerami popsuje na wydziale - oni zawsze wiedzą jak to naprawić, bo są GigaChadami. Np. jak macie problem się zalogować. Mogą też pomóc w załatwieniu rzeczy, które PW kupuje dla studentów, patrz rozdział **PW ma kupione dla studentów sporo rzeczy**. Also, oni mają pisaki do białych tablic. Można też wynająć laptopa albo przejściówkę HTML / VGA na czas prezentacji.
 
-Na wydziale jest system druku czarno-białego. Jedna strona chyba kosztuje coś koło 0.08 wirtualnych zł. Każdy student ma w semestrze przeznaczone 5 wirtualnych zł. Starości i członkowie WRS mają więcej. Doktoranci i pracownicy mają nieskończoność. Drukowanie jest łatwe, ale nie chce mi się opisywać. Skomplikowany opis można znaleźć tutaj: https://ww2.mini.pw.edu.pl/laboratorium/system-druku/
+Na wydziale jest system druku czarno-białego. Jedna strona chyba kosztuje coś koło 0.08 wirtualnych zł. Każdy student ma w semestrze przeznaczone 5 wirtualnych zł. Starości i członkowie WRS mają więcej. Doktoranci i pracownicy mają nieskończoność. Drukowanie jest łatwe, ale nie chce mi się opisywać. [Skomplikowany opis można znaleźć tutaj](https://ww2.mini.pw.edu.pl/laboratorium/system-druku/)
 
 Dziekanat jest w korytarzu za dywanem Sierpińskiego. Otwarci na petentów są w poniedziałki, wtorki, czwartki i piątki od 11 do 14. W pozostałych godzinach zajmują się sprawami studenckimi, ale nie można do nich przyjść. Można napisać maila dziekanat.wmini@pw.edu.pl i szybko odpisują. Patrz rozdział **Dziekanat**.
 
@@ -347,11 +355,11 @@ Na koniec semestru w USOS są ankiety, gdzie możesz opisać, co Ci leży na ser
 
 ## Czemu to jest na moich studiach?
 * WF - 3 semestry bez punktów ECTS. Trzeba zaliczyć, co jest wrzodem na dupie, bo czasem ciężko dopasować do planu. Jest w ustawie o szkolnictwie, że mamy mieć ileś tam zajęć WF
-* Język - 3 semestry, razem 12 ECTS. Fajnie, że jest duży wybór. Mówi się, że jeśli ktoś chce się nauczyć języka, to na PW dostanie dobry wstęp, a jeśli ktoś chce się nie nauczyć języka, to na PW może, bo te zajęcia są "za łatwe". Dla mnie były one trudne i spoto musiałe poświęcić na to czasu, ale ja zawsze miałem problem z językami obcymi ¯\_(ツ)_/¯
+* Język - 3 semestry, razem 12 ECTS. Fajnie, że jest duży wybór. Mówi się, że jeśli ktoś chce się nauczyć języka, to na PW dostanie dobry wstęp, a jeśli ktoś chce się nie nauczyć języka, to na PW może, bo te zajęcia są "za łatwe". Dla mnie były one trudne i spoto musiałe poświęcić na to czasu, ale ja zawsze miałem problem z językami obcymi ¯\\_(ツ)_/¯
 * Fizyka - ktoś mi kiedyś powiedział, że Unia Europejska sobie wymyśliła, że jeśli jakaś uczelnia nazywa się "Politechniką", czy tam "University of Technology", to każdy kierunek musi mieć co najmniej 5 ECTS Fizyki. U nas Wydział Fizyki sprytnie oferuje kursy po 4 ECTS, więc muszą być takie dwa ( ͡° ͜ʖ ͡°)
 * Humany - Na naszym wydziale humany są bardzo kompetentne. Kreatywne rozwiązywanie problemów, Techniki prezentacji, Podstawy przedsiębiorczości, Wprowadzenie do pracy z literaturą naukową, Zarządzanie przedsięwzięciami informatycznymi, Historia rachunku prawdopodobieństwa i statystyki. Bardzo dobrze wspominam te zajęcia i nie uważam je za czas zmarnowany
 * Szkolenie BHB - godzinka wykładu, za moich czasów panowie, co to prowadzili mówili bardzo ciekawe rzeczy i warto było posłuchać. Może się zdarzyć, że będziecie musieli wiedzieć jak się ratować. Na naszym wydziale była już jedna nietreningowa ewakuacja
-* Przysposobienie biblioteczne - każdy student musi przez to przejść niestety. Nawet jeśli nie zamierzasz wypożyczać książek - czego nie polecam, bo nasza biblioteka jest bardzo bogata w dobre podręczniki i jest super. Patrz rozdział Biblioteka. Słyszałem, że nawet niewidomi studenci mają obowiązek przejść przysposobienie biblioteczne ¯\_(ツ)_/¯
+* Przysposobienie biblioteczne - każdy student musi przez to przejść niestety. Nawet jeśli nie zamierzasz wypożyczać książek - czego nie polecam, bo nasza biblioteka jest bardzo bogata w dobre podręczniki i jest super. Patrz rozdział Biblioteka. Słyszałem, że nawet niewidomi studenci mają obowiązek przejść przysposobienie biblioteczne ¯\\_(ツ)_/¯
 * Inne przedmioty, które niczego nie wnoszą - plan kierunku praktycznie jest ustalana na posiedzeniach Rady Kierunku, gdzie zazwyczaj jest ~10 prowadzących oraz ~3 studentów. Jeśli chcesz mieć wpływ na to, jak wygląda kierunek, to można postarać się do tej rady wstąpić. Jeśli TY chcesz mieć inne przedmioty, to da się to zrobić, patrz rozdział **Indywidualne studiowanie**
 
 
@@ -376,5 +384,7 @@ Ogłoszenia o rzeczach, które dzieją się na wydziale najszęciej są wysyłan
 * Erasmus
 * Wrzesień
 * Dziekanat
+* łatwe studia
+* obronić inżyniera w 23(?) semestry?
 
 
