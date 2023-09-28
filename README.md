@@ -284,7 +284,7 @@ Czasem na USOS jest źle napisane - a to prowadzący, a to dzień jest wolny, a 
 
 Na MiNI co do zasady nie ma zajęć w czwartki w godzinach 12-14. Jest to spowodowane tym, że ~ raz w miesiącu jest w tym czasie Rada Wydziału, więc dziekan potrzebuje, żeby prowadzący byli wtedy dostępni. Zdarza się, że zajęcia są, ale to musi się dziekan specjalnie zgodzić na to prowadzącemu.
 
-Czasem dziekan ogłasza Godziny Dziekańskie. Wtedy nie ma zajęć po prostu. Jest to spowodowane jakimś wydarzeniem, np. Wigilia wydziałowa, albo piknik Całkonalia. Zazwyczaj ogłaszane są z jakimś wyprzedzeniem, ale nie zawsze ¯\\_(ツ)_/¯
+Czasem dziekan ogłasza Godziny Dziekańskie. Wtedy nie ma zajęć po prostu. Jest to spowodowane jakimś wydarzeniem, np. Wigilia wydziałowa, albo piknik Całkonalia. Zazwyczaj ogłaszane są z jakimś wyprzedzeniem, ale nie zawsze ¯\\\_(ツ)\_/¯
 
 1 października zaczyna się rok i na rozpoczęcie jest Inauguracja Roku Akademickiego. To jest taka nieobowiązkowa uroczystość na wydziale. Ja polecam się przejść jako pierwszak, bo po samej uroczystości członkowie WRS zazwyczaj coś dla was pogadają jakieś wartościowe life-hacki i są dostępni do pogadania. Najczęściej wybiera się tam też Starostę grupy. Po uroczystości idziemy na Pole Mokotowskie 🍺
 
@@ -355,11 +355,11 @@ Na koniec semestru w USOS są ankiety, gdzie możesz opisać, co Ci leży na ser
 
 ## Czemu to jest na moich studiach?
 * WF - 3 semestry bez punktów ECTS. Trzeba zaliczyć, co jest wrzodem na dupie, bo czasem ciężko dopasować do planu. Jest w ustawie o szkolnictwie, że mamy mieć ileś tam zajęć WF
-* Język - 3 semestry, razem 12 ECTS. Fajnie, że jest duży wybór. Mówi się, że jeśli ktoś chce się nauczyć języka, to na PW dostanie dobry wstęp, a jeśli ktoś chce się nie nauczyć języka, to na PW może, bo te zajęcia są "za łatwe". Dla mnie były one trudne i spoto musiałe poświęcić na to czasu, ale ja zawsze miałem problem z językami obcymi ¯\\_(ツ)_/¯
+* Język - 3 semestry, razem 12 ECTS. Fajnie, że jest duży wybór. Mówi się, że jeśli ktoś chce się nauczyć języka, to na PW dostanie dobry wstęp, a jeśli ktoś chce się nie nauczyć języka, to na PW może, bo te zajęcia są "za łatwe". Dla mnie były one trudne i spoto musiałe poświęcić na to czasu, ale ja zawsze miałem problem z językami obcymi ¯\\\_(ツ)\_/¯
 * Fizyka - ktoś mi kiedyś powiedział, że Unia Europejska sobie wymyśliła, że jeśli jakaś uczelnia nazywa się "Politechniką", czy tam "University of Technology", to każdy kierunek musi mieć co najmniej 5 ECTS Fizyki. U nas Wydział Fizyki sprytnie oferuje kursy po 4 ECTS, więc muszą być takie dwa ( ͡° ͜ʖ ͡°)
 * Humany - Na naszym wydziale humany są bardzo kompetentne. Kreatywne rozwiązywanie problemów, Techniki prezentacji, Podstawy przedsiębiorczości, Wprowadzenie do pracy z literaturą naukową, Zarządzanie przedsięwzięciami informatycznymi, Historia rachunku prawdopodobieństwa i statystyki. Bardzo dobrze wspominam te zajęcia i nie uważam je za czas zmarnowany
 * Szkolenie BHB - godzinka wykładu, za moich czasów panowie, co to prowadzili mówili bardzo ciekawe rzeczy i warto było posłuchać. Może się zdarzyć, że będziecie musieli wiedzieć jak się ratować. Na naszym wydziale była już jedna nietreningowa ewakuacja
-* Przysposobienie biblioteczne - każdy student musi przez to przejść niestety. Nawet jeśli nie zamierzasz wypożyczać książek - czego nie polecam, bo nasza biblioteka jest bardzo bogata w dobre podręczniki i jest super. Patrz rozdział Biblioteka. Słyszałem, że nawet niewidomi studenci mają obowiązek przejść przysposobienie biblioteczne ¯\\_(ツ)_/¯
+* Przysposobienie biblioteczne - każdy student musi przez to przejść niestety. Nawet jeśli nie zamierzasz wypożyczać książek - czego nie polecam, bo nasza biblioteka jest bardzo bogata w dobre podręczniki i jest super. Patrz rozdział Biblioteka. Słyszałem, że nawet niewidomi studenci mają obowiązek przejść przysposobienie biblioteczne ¯\\\_(ツ)\_/¯
 * Inne przedmioty, które niczego nie wnoszą - plan kierunku praktycznie jest ustalana na posiedzeniach Rady Kierunku, gdzie zazwyczaj jest ~10 prowadzących oraz ~3 studentów. Jeśli chcesz mieć wpływ na to, jak wygląda kierunek, to można postarać się do tej rady wstąpić. Jeśli TY chcesz mieć inne przedmioty, to da się to zrobić, patrz rozdział **Indywidualne studiowanie**
 
 
