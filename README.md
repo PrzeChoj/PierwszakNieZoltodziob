@@ -10,7 +10,7 @@ Czyli poradnik dla studentów MiNI
 2. [Co to za dokument?](#Co-to-za-dokument)
 3. [Przydatne linki](#Przydatne-linki)
 4. [Podział na grupy dziekańskie](#Podział-na-grupy-dziekańskie)
-5. [Języki + WF](#Języki-+-WF)
+5. [Języki + WF](#Języki-WF)
    - [Języki](#Języki)
      - [Standardowo](#Standardowo)
      - [Niestandardowo](#Niestandardowo)
@@ -92,6 +92,7 @@ Nie trzeba zostawać Starostą na zawsze xd Można zrezygnować, może być wiel
 Co roku powstają grupy na FB dla studenciaków. Z różnym skutkiem, niektóre są bardzo aktywne, inne bardzo nieaktywne xd
 
 
+<a name="Języki-WF"></a>
 ## Języki + WF
 Na MiNI to działa tak, że są one w programie studiów wpisane w semestry 2, 3 oraz 4. Prawie wszyscy właśnie na tych semestrach to robią. Oczywiście można skorzystać z tego, co opisane w rozdziale o robieniu przedmiotów na zapas. Jest też możliwość robienia ich później niż w programie studiów - patrz rozdział **Indywidualne studiowanie**.
 
@@ -137,6 +138,7 @@ Są narty i jakieś chodzenie i to jest inne, bo są tylko 2 wyjścia w semestrz
 Podobno można się wesoło zapisać do jakiejś sekcji sportowej i tam są normalnie treningi co tydzień jak normalny WF. Nie wiem, czym to się różni, ale wiem, że mało osób tak robi.
 
 
+<a name="Stypendia-kasa"></a>
 ## Stypendia - kasa
 SSPW zrobili świetny poradnik stypendialny https://www.bss.pw.edu.pl/Media/Files/Poradnik-Stypendialny11.
 Tu opiszę w skrócie tak, jak ja to widzę, ale polecam przeczytać ten oficjalny poradnik.
@@ -219,6 +221,7 @@ Jest jeszcze coś takiego jak Centrum Studiów Zaawansowanych. Ja do końca nie 
 Pod ten rozdział podpada też Erasmus, ale ten program zasługuje na własny rozdział.
 
 
+<a name="Samorząd-Studentów-Politechniki-Warszawskiej-SSPW"></a>
 ## Samorząd Studentów Politechniki Warszawskiej - SSPW
 Duża organizacja. Łączy się ona z innymi podobnymi, ale sama też jest podzielona na wiele mniejszych części. Najogólniej rzecz ujmując, jest to szyld, pod którym działają studenci PW dla dobra wszystkich studentów PW.
 
@@ -315,6 +318,7 @@ Semestr kończy się sesją (patrz rozdział sesja). W czasie sesji nie ma zaję
 **Wrzesień**, to zasługuje na specjalny rozdział xd
 
 
+<a name="Wydział-budynek"></a>
 ## Wydział - budynek
 Potocznie zwany szklarnią. Mający adres ul. Koszykowa 75 (są 4 budynki pod tym adresem, weźcie to pod uwagę, jakbyście musieli wzywać karetkę - podajcie dokładnie, że wydział matematyki - szklany). Gdyby coś się stało i potrzebujesz pomocy na wydziale, to dzwoń na portiernię: 22 234 13 11 Portierzy mają certyfikaty pierwszej pomocy.
 
