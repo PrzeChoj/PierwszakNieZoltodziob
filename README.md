@@ -1,4 +1,5 @@
 # **Jak być pierwszakiem, ale nie żółtodziobem?**
+Czyli poradnik dla studentów MiNI
 
 **This is still work in progress**
 
@@ -318,7 +319,7 @@ Kiedyś na trzecim piętrze przy schodach były coś jakby "pokoje cichej nauki"
 
 W 311 jest 16 kompuerów specjalnie dla studentów i można sobie popracować. Jest tam też tablica zielona, więc można się wspólnie pouczyć. https://ww2.mini.pw.edu.pl/laboratorium/laboratoria/sala218/
 
-W 323 mieszkają informatycy. Można ich odwiedzić jak coś się z komputerami popsuje na wydziale - oni zawsze wiedzą jak to naprawić, bo są GigaChadami. Np. jak macie problem się zalogować. Mogą też pomóc w załatwieniu rzeczy, które PW kupuje dla studentów, patrz rozdział **PW ma kupione dla studentów dużo rzeczy**. Also, oni mają pisaki do białych tablic. Można też wynająć laptopa albo przejściówkę HTML / VGA na czas prezentacji.
+W 323 mieszkają informatycy. Można ich odwiedzić jak coś się z komputerami popsuje na wydziale - oni zawsze wiedzą jak to naprawić, bo są GigaChadami. Np. jak macie problem się zalogować. Mogą też pomóc w załatwieniu rzeczy, które PW kupuje dla studentów, patrz rozdział **PW ma kupione dla studentów sporo rzeczy**. Also, oni mają pisaki do białych tablic. Można też wynająć laptopa albo przejściówkę HTML / VGA na czas prezentacji.
 
 Na wydziale jest system druku czarno-białego. Jedna strona chyba kosztuje coś koło 0.08 wirtualnych zł. Każdy student ma w semestrze przeznaczone 5 wirtualnych zł. Starości i członkowie WRS mają więcej. Doktoranci i pracownicy mają nieskończoność. Drukowanie jest łatwe, ale nie chce mi się opisywać. Skomplikowany opis można znaleźć tutaj: https://ww2.mini.pw.edu.pl/laboratorium/system-druku/
 
@@ -374,5 +375,6 @@ Ogłoszenia o rzeczach, które dzieją się na wydziale najszęciej są wysyłan
 * Samouczek
 * Erasmus
 * Wrzesień
+* Dziekanat
 
 
