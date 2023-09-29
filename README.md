@@ -30,6 +30,8 @@ Czyli poradnik dla studentów MiNI
 15. [Ankietyzacja](#Ankietyzacja)
 16. [Czemu to jest na moich studiach?](#Czemu-to-jest-na-moich-studiach)
 17. [PW ma kupione dla studentów sporo rzeczy](#PW-ma-kupione-dla-studentów-sporo-rzeczy)
+18. [Dyski kierunkowe](#Dyski-kierunkowe)
+19. [Dziekanat](#Dziekanat)
 18. [Randomowe](#Randomowe)
 19. [TODO](#TODO)
 
@@ -359,7 +361,7 @@ W Szatni można sobie zostawiać kurtki i jeśli potrzeba to można poprosić po
 
 W portierni mają klucze do klubu i sal; kredę do zielonych tablic; można też wypożyczyć od nich piloty z laserem do prezentowania.
 
-O stołówce nie ma zbyt wiele do powiedzenia - jest. PRowadzona jest przez zewnętrzną firmę.
+O stołówce nie ma zbyt wiele do powiedzenia - jest. Prowadzona jest przez zewnętrzną firmę. Da się zdążyć w 15 minut zjeść i wrócić na zajęcia.
 
 Pokój WRS to miejsce, gdzie każdy student jest mile widziany i może się tam skontaktować z członkami i sympatykami WRS. Można do nich przyjść z każdym studenckim problemem i oni chętnie pomogą. Czasem (rzadko) jest zamknięte - sprawdźcie na FaceBooku, kiedy dyżur ma ta osoba, co nas interesuje. Więcej info w rozdziale **Samorząd Studentów Politechniki Warszawskiej - SSPW**.
 
@@ -373,11 +375,13 @@ W 323 mieszkają informatycy. Można ich odwiedzić jak coś się z komputerami 
 
 Na wydziale jest system druku czarno-białego. Jedna strona chyba kosztuje coś koło 0.08 wirtualnych zł. Każdy student ma w semestrze przeznaczone 5 wirtualnych zł. Starości i członkowie WRS mają więcej. Doktoranci i pracownicy mają nieskończoność. Drukowanie jest łatwe, ale nie chce mi się opisywać. [Skomplikowany opis można znaleźć tutaj](https://ww2.mini.pw.edu.pl/laboratorium/system-druku/)
 
-Dziekanat jest w korytarzu za dywanem Sierpińskiego. Otwarci na petentów są w poniedziałki, wtorki, czwartki i piątki od 11 do 14. W pozostałych godzinach zajmują się sprawami studenckimi, ale nie można do nich przyjść. Można napisać maila dziekanat.wmini@pw.edu.pl i szybko odpisują. Patrz rozdział **Dziekanat**.
+Dziekanat jest w korytarzu za dywanem Sierpińskiego w pokoju 32 (uwaga, niektóre tabliczki twierdzą, że 33, ale to bait, bo 33 to pokój obron 🙈). Otwarci na petentów są w poniedziałki, wtorki, czwartki i piątki od 11 do 14. W pozostałych godzinach zajmują się sprawami studenckimi, ale nie można do nich przyjść. Można napisać maila dziekanat.wmini@pw.edu.pl i szybko odpisują. Patrz rozdział **Dziekanat**.
 
-Finanse są w pokoju TODO i zajmują się umowami związanymi z wypłacaniem pieniędzy dla pracowników. Studenci nie mają z nimi do czynienia, jedynie prowadzący zajęcia.
+Pan Hubert Pająk mieszka w pokoju 27.
 
-Sekretariat jest w pokoju TODO i zajmują się umowami z pracownikami naukowymi. Studenci nie mają z nimi do czynienia, jedynie prowadzący zajęcia.
+Finanse są w pokoju 9 i zajmują się umowami związanymi z wypłacaniem pieniędzy dla pracowników. Studenci nie mają z nimi do czynienia, jedynie prowadzący zajęcia.
+
+Sekretariat jest w pokoju 17 i zajmują się umowami z pracownikami naukowymi. Studenci nie mają z nimi do czynienia, jedynie prowadzący zajęcia.
 
 Są różne gablotki z ogłoszeniami - często przeterminowanymi, ale czasem się trafią perełki. Ogłoszenia na ścianie "nogi" są wywieszane przez WRS i oni pilnują, żeby nie było przeterminowanych - chwała im za to.
 
@@ -418,6 +422,44 @@ Na koniec semestru w USOS są ankiety, gdzie możesz opisać, co Ci leży na ser
 Ogłoszenia o rzeczach, które dzieją się na wydziale najszęciej są wysyłane mailem. Sprawdzajcie swoją skrzynkę Outlook regularnie. Rzeczy dla studenów są rzucane przez [WRS na ich FunPage](https://www.facebook.com/groups/1898215117122909/user/100063529845505/), albo na grupę na FB [MiNI ogłoszenia](https://www.facebook.com/groups/miniogloszenia). Niektóre rzecz są na kartkach wieszane na parterze w różnych gablotkach.
 
 
+## Dyski kierunkowe
+Poprzednie pokolenia studentów nazbierały trochę notatek, starych kolokwiów i egzaminów. Wrzucali te rzeczy na dyski kierunkowe. Polecam na początku semestru sobie rpzejrzeć jakie dobra tam się znajdują. Zachęcam z całego serduszka do dodawania swoich wartosciowych rzeczy, aby jakość tej pomocy naukowej stale się zwiększała.
+
+W tej chwili na tych dyskach jest dość spory burdel. Kilka folderów pozagnieżdżanych o tym samym itp. Tak to już jest jak dużo ludzi dorzuca swoje i nie zastanawia się zbyt długo xd
+
+
+<a name="Dziekanat"></a>
+## Dziekanat
+Nasz dziekanat to super miejsce. Pracujący tam ludzie są bardzo mili i pomocni.
+
+### Główny dziekanat
+Cały dziekanat znajduje się na parterze. Główna część przeznaczona dla studentów znajduje się w pokoju 32 (uwaga, niektóre tabliczki twierdzą, że 33, ale to bait, bo 33 to pokój obron 🙈). Czas dla petentów jest w poniedziałek, wtorek, czwartek i piątek w godzinach TODO. W środy oraz w pozostałych godzinach dziekanat też pracuje, ale nie przyjmuje petentów - można napisać maila na dziekanat.wmini@pw.edu.pl i oni szybko odpisują. Są osobne osoby do każdego kierunku, więc jak masz tam sprawę, to załatw ją z odpowiendią osobą. Jeśli akurat nie ma tam osoby odpowiedzialnej za Twój kierunek, to pozostałe osoby też będą mogły Ci pomóc raczej bez problemu.
+
+Typowymi sprawami do załatwienia w dziekanacie, to składanie podań różnej maści - zmiany przedmiotów, grup, wnioski o stypendia. Raz na semestr Starosta przynosi legitymacje studenckie. Przynosi się papiery z badaniami lekarskimi (patrz **Badania lekarskie**).
+
+### Pozostała część dziekanatu
+Pan Hubert Pająk mieszka w pokoju 27. To on jest odpowiedzialny za plan zajęć i ca całego naszego USOS'a. Lepiej pisać maila - najczęściej odpisuje w ciągu kilku dni.
+
+Na naszym wydziale jest 4 prodziekanów, czyli takich pomocników dziekana do zadań specjalnych. Dla studentów najważniejsi są dwoje:
+
+* Do spraw nauczania - dr inż. Krzysztof Kaczmarski
+* Do spraw studenckich - dr hab. Bogusława Karpińska prof. uczelni
+
+Pozostali dwoje to:
+
+* Do spraw rozwoju - prof. dr hab. inż. Przemysław Biecek
+* Do spraw nauki - prof. dr hab. Janina Kotus
+
+Jeśli macie jakąś sprawę, która waszym zdaniem wymaga ingerencji prodziekana, to prawie na pewno lepiej jest z tą sprawą przejść się do WRS i zapytać o radę. Przewodniczący WRS raz w tygodniu i tak się widzi z prodziekanami więc jeśli to naprawdę coś ważnego, to właśnie w tym celu się z nimi widzi - żeby przekazywać studenckie problemy.
+
+Zdarza się, że student nie jest zadowolony z działania WRS-u. Moim zdaniem lepiej jest w tej sytuacji przyjść na posiedzenie WRS i o tym porozmawiać co było nie tak i w ten sposób rozwiązać problem od środka. Niektórzy jednak wolą napisać maila skargę do prodziekana odpowiedniego i jakby "atakować WRS od zewnątrz". To też jest jakaś droga, choć jej nie polecam.
+
+
+
+
+
+
+
 
 
 ## TODO:
@@ -425,7 +467,7 @@ Ogłoszenia o rzeczach, które dzieją się na wydziale najszęciej są wysyłan
 * Samouczek
 * Erasmus
 * Wrzesień
-* Dziekanat
 * łatwe studia
 * obronić inżyniera w 23(?) semestry?
+* Badania lekarskie
 
