@@ -418,9 +418,6 @@ Na koniec semestru w USOS są ankiety, gdzie możesz opisać, co Ci leży na ser
 * InteliJ Educational Edition - Dostajesz wszystkie plusy Enterprise za darmo. Jak coś piszesz w Javie, to jest to livesaver. Warto [dołączyć](https://education.github.com/pack/join) przez Github'a Premium dla studentów, o którym mowa powyżej.
 
 
-## Randomowe
-Ogłoszenia o rzeczach, które dzieją się na wydziale najszęciej są wysyłane mailem. Sprawdzajcie swoją skrzynkę Outlook regularnie. Rzeczy dla studenów są rzucane przez [WRS na ich FunPage](https://www.facebook.com/groups/1898215117122909/user/100063529845505/), albo na grupę na FB [MiNI ogłoszenia](https://www.facebook.com/groups/miniogloszenia). Niektóre rzecz są na kartkach wieszane na parterze w różnych gablotkach.
-
 
 ## Dyski kierunkowe
 Poprzednie pokolenia studentów nazbierały trochę notatek, starych kolokwiów i egzaminów. Wrzucali te rzeczy na dyski kierunkowe. Polecam na początku semestru sobie rpzejrzeć jakie dobra tam się znajdują. Zachęcam z całego serduszka do dodawania swoich wartosciowych rzeczy, aby jakość tej pomocy naukowej stale się zwiększała.
@@ -428,7 +425,6 @@ Poprzednie pokolenia studentów nazbierały trochę notatek, starych kolokwiów 
 W tej chwili na tych dyskach jest dość spory burdel. Kilka folderów pozagnieżdżanych o tym samym itp. Tak to już jest jak dużo ludzi dorzuca swoje i nie zastanawia się zbyt długo xd
 
 
-<a name="Dziekanat"></a>
 ## Dziekanat
 Nasz dziekanat to super miejsce. Pracujący tam ludzie są bardzo mili i pomocni.
 
@@ -455,6 +451,12 @@ Jeśli macie jakąś sprawę, która waszym zdaniem wymaga ingerencji prodziekan
 Zdarza się, że student nie jest zadowolony z działania WRS-u. Moim zdaniem lepiej jest w tej sytuacji przyjść na posiedzenie WRS i o tym porozmawiać co było nie tak i w ten sposób rozwiązać problem od środka. Niektórzy jednak wolą napisać maila skargę do prodziekana odpowiedniego i jakby "atakować WRS od zewnątrz". To też jest jakaś droga, choć jej nie polecam.
 
 
+
+
+
+
+## Randomowe
+Ogłoszenia o rzeczach, które dzieją się na wydziale najszęciej są wysyłane mailem. Sprawdzajcie swoją skrzynkę Outlook regularnie. Rzeczy dla studenów są rzucane przez [WRS na ich FunPage](https://www.facebook.com/groups/1898215117122909/user/100063529845505/), albo na grupę na FB [MiNI ogłoszenia](https://www.facebook.com/groups/miniogloszenia). Niektóre rzecz są na kartkach wieszane na parterze w różnych gablotkach.
 
 
 
