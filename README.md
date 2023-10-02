@@ -69,9 +69,9 @@ Rozdziały są w losowej kolejności - w zależności od tego, jak chciało mi s
 2. [Funpage WRS MiNI](https://www.facebook.com/wrsminipw)
 3. [USOS](https://usosweb.usos.pw.edu.pl/)
 4. Dyski kierunkowe:
-	- [informatyka](https://drive.google.com/drive/folders/0B97pxG7p-ByUQzNiUFg4QTZmdmM?resourcekey=0-1LL39dXaXyJmNvMgJ_d4Wg)
-	- [IiAD](https://drive.google.com/drive/folders/0B97pxG7p-ByUQzNiUFg4QTZmdmM?resourcekey=0-1LL39dXaXyJmNvMgJ_d4Wg)
-	- [Matma](https://drive.google.com/drive/folders/196mHWFZzX9zaGZwfAbPDNvki3gloK5xK)
+	- [informatyka](https://youtu.be/dQw4w9WgXcQ?si=2YamES4AgvAWfebW)
+	- [IiAD](https://youtu.be/dQw4w9WgXcQ?si=2YamES4AgvAWfebW)
+	- [Matma](https://youtu.be/dQw4w9WgXcQ?si=2YamES4AgvAWfebW)
  	- [MAD](https://youtu.be/dQw4w9WgXcQ?si=2YamES4AgvAWfebW)
 5. [Losowe książki matematyczne](https://www.dropbox.com/sh/35uv9z7hkng810f/AACsZkmFtVgIHpRjVG-xpEa-a?dl=0&fbclid=IwAR0tgHbXKqdUk17d20H2ahFc5fZmmsi3ivlffzN5V8kUAWAk9BKsVpt3CuM)
 6. [Biblioteka Główna PW](https://bg.pw.edu.pl/)
