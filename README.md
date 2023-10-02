@@ -35,9 +35,8 @@ Czyli poradnik dla studentów MiNI
 18. [Randomowe](#Randomowe)
 19. [TODO](#TODO)
 
-
 ## Wstęp
-Zostałeś studentem MiNI. Gratulacje! To jednak nie koniec trudności. Ale spokojnie, bo to, czego nauczysz się na tym wydziale, to serio są rzeczy wartościowe i przydatne (w większość). A co za tym idzie, wysoko cenione na rynku pracy.
+Zostałeś studentem MiNI. Gratulacje! To jednak nie koniec trudności. Ale spokojnie, bo to, czego nauczysz się na tym wydziale, to serio są rzeczy wartościowe i przydatne (w większości). A co za tym idzie, wysoko cenione na rynku pracy.
 
 Ten dokument powstał od starszych studentów z myślą o pierwszakach i nie tylko. Jest długi. Mało który absolwent wie te rzeczy, które tu się znajdują. Czytanie tego nie jest ani obowiązkowe, ani jakieś ważne.
 
@@ -45,7 +44,7 @@ Piszę to dlatego, że mnóstwo ludzi pyta się mnie o rzeczy, więc i tak na te
 
 W każdym razie dobrym pomysłem jest przejrzenie tytułów rozdziałów i jak zobaczysz coś ciekawego, to można sobie poczytać. Jeśli czegoś w nim brakuje, to śmiało pytaj się starszych, tak to w sumie działa na polibudzie od pokoleń - żeby coś załatwić, to trzeba pogadać z ludźmi, co już to kiedyś robili. Zachęcam też do pisania issue na tym repo z pytaniami.
 
-Jeśli uważasz, że czegoś w tym dokumencie brakuje, albo powinno być inaczej, to napisz issue. Zachęcam też do dodawania Pull Requestów.
+Jeśli uważasz, że czegoś w tym dokumencie brakuje, albo powinno być inaczej to napisz issue. Zachęcam też do dodawania Pull Requestów.
 
 
 ## Co to za dokument?
@@ -57,7 +56,7 @@ Można poczytać sobie poszczególne rozdziały, które są mniej lub bardziej z
 
 Dokument ten powstaje w 2023, ale opiera się na wiedzy i wieloletnim doświadczeniu. Oczywiście wszystko się zmienia, więc w przyszłości wiedza ta będzie nieaktualna, a być może nawet i w czasie powstawania jest nieaktualna. Z pewnością jest to świetny początek poszukiwań odpowiedzi na wasze pytanie i rozwiązanie waszego problemu.
 
-Rzeczy opisane są jako “fakty”, ale trzeba uważać, bo **nie koniecznie muszą być poprawne, czy aktualne**. Mają być traktowane jako wskazówki i początek szukania odpowiedzi.
+Rzeczy opisane są jako “fakty”, ale trzeba uważać, bo **niekoniecznie muszą być poprawne**, czy **aktualne**. Mają być traktowane jako wskazówki i początek szukania odpowiedzi.
 
 Rzeczy opisane są bardzo szczegółowo. Wysokolevelowi studenci też mogą się wiele dowiedzieć z tego dokumentu.
 
@@ -66,7 +65,7 @@ Rozdziały są w losowej kolejności - w zależności od tego, jak chciało mi s
 
 ## Przydatne linki
 1. [AltMiniawa - grupa memowa na FB](https://www.facebook.com/groups/altminiawa)
-2. [Funpage WRS MiNI](https://www.facebook.com/wrsminipw)
+2. [Fanpage WRS MiNI](https://www.facebook.com/wrsminipw)
 3. [USOS](https://usosweb.usos.pw.edu.pl/)
 4. Dyski kierunkowe:
 	- [informatyka](https://youtu.be/dQw4w9WgXcQ?si=2YamES4AgvAWfebW)
@@ -83,23 +82,20 @@ Rozdziały są w losowej kolejności - w zależności od tego, jak chciało mi s
 
 
 ## Podział na grupy dziekańskie
-Na MiNI na pierwszym stopniu są 4 kierunki - matma, MAD, IiAD, infa, ale o tym pewnie już wiesz. Na pierwszym roku wiele z tych kierunków ma wspólnie przedmioty. Później miej, ale trochę też. W każdym razie wykłady są wspólnie dla wszystkich, którzy robią dany przedmiot. Ćwiczenia są zazwyczaj w grupach 20 - 30 osobowych. Laboratoria są w salach z komputerami, które są do 16 osób.
+Na MiNI na pierwszym stopniu są 4 kierunki - matma, MAD, IiAD, infa, ale o tym pewnie już wiesz. Na pierwszym roku wiele z tych kierunków ma wspólnie przedmioty. Później mniej, ale trochę też. W każdym razie wykłady są wspólnie dla wszystkich, którzy robią dany przedmiot. Ćwiczenia są zazwyczaj w grupach 20 - 30 osobowych. Laboratoria są w salach z komputerami, które są do 16 osób.
 
-Dlatego istnieje podział na grupy dziekańskie (USOS.pl -> Dla studentów -> (po lewej stronie) Moje studia -> (po lewej stronie) Grupy dziekańskie). Która tak z grubsza mówi, z kim będziesz chodził na zajęcia. Trzeba wiedzieć, w jakiej się jest, bo pisze się to czasem w dokumentach, czy innych mailach.
+To jest powód istnienia podziału na grupy dziekańskie (USOS.pl -> Dla studentów -> (po lewej stronie) Moje studia -> (po lewej stronie) Grupy dziekańskie). Podział ten z grubsza mówi, z kim będziesz chodził na zajęcia. Trzeba wiedzieć, w jakiej się jest, bo pisze się to czasem w dokumentach czy tam innych mailach.
 
-Tradycja nakazuje, żeby każda grupa dziekańska miała swoją grupę na Messnegerze aby ułatwić komunikację. Also, przydaje się, aby jedna osoba była “Starostą”. To jest taka wyznaczona osoba do kontaktu z prowadzącymi i dziekanatem. Przydaje się, bo:
+Co roku powstają grupy na FB dla studenciaków. Z różnym skutkiem - niektóre są bardzo aktywne, inne bardzo nieaktywne xd
 
-Co semestr trzeba podbić legitymację studencką, to wygodnie jak jedna osoba zbierze całość.
+Tradycja nakazuje, żeby każda grupa dziekańska miała swoją grupę na Messnegerze, aby ułatwić komunikację. Also, przydaje się, aby jedna osoba była “Starostą”. To jest taka wyznaczona osoba do kontaktu z prowadzącymi i dziekanatem. Przydaje się, bo:
 
-Starosta kontaktuje się z dziekanatem (Pająkiem) jeśli jest jakiś problem w planie zajęć, albo sesji - jakieś zajęcia, albo egzaminy się przypadkiem nakładają.
-
-Starosta jest na grupie Messenger starostów, gdzie są ogłoszenia do przekazania dla studenciaków
-
-Czasem prowadzący na zajęciach/wykładach pytają: “Kto jest starostą, to niech napisze maila/dogada się z wami i mi przekaże/cokolwiek”.
+1. Co semestr trzeba podbić legitymację studencką, to wygodnie jak jedna osoba zbierze całość.
+2. Starosta kontaktuje się z dziekanatem (albo Pająkiem), jeśli jest jakiś problem w planie zajęć albo sesji - jakieś zajęcia albo egzaminy się przypadkiem nakładają.
+3. Starosta jest na grupie Messenger starostów, gdzie są ogłoszenia do przekazania dla studenciaków.
+4. Czasem prowadzący na zajęciach/wykładach pytają: “Kto jest starostą, to niech napisze maila/dogada się z wami i mi przekaże/cokolwiek”.
 
 Nie trzeba zostawać Starostą na zawsze xd Można zrezygnować, może być wiele starostów - to ma ułatwić, a nie utrudnić studiowanie.
-
-Co roku powstają grupy na FB dla studenciaków. Z różnym skutkiem, niektóre są bardzo aktywne, inne bardzo nieaktywne xd
 
 
 <a name="Języki+WF"></a>
@@ -109,41 +105,44 @@ Na MiNI to działa tak, że są one w programie studiów wpisane w semestry 2, 3
 ### Języki
 
 <a name="Języki-Standardowo"></a>
-#### Standardowo
-SJO ma taką stronkę swoją świętą (sjo.pw.edu.pl) i na niej teoretycznie jest ✨wszystko✨, czego potrzeba, a w praktyce to nigdy nie wiadomo gdzie cokolwiek na tej stronie znaleźć xd Dość powiedzieć, że SJO PW na ocenę na Google 1.2 ⭐ / 5.0 ⭐. Jak chcecie coś załatwić w SJO, to mailem nie polecam, bo potrafią nie odpisać. Można się do nich przejść i mieć nadzieję, że gwiazdy się dobrze ułożą, a ci będą mieli dobry humor, bo bez tego może się nie udać.
 
-Co semestr to się może zmieniać, ale standardowo to jest tak, że student, aby sobie dostać inż, czy tam lic, to musi zdać ten ich śmieszny ACERT (niekoniecznie z angielskiego), który jest mniej więcej na poziomie B2. Można go zdać w dowolnym momencie studiów, np. w czasie pierwszej sesji, albo przed samą obroną.
+#### Standardowo
+SJO ma [taką stronkę swoją świętą](sjo.pw.edu.pl) i na niej teoretycznie jest ✨wszystko✨, czego potrzeba, a w praktyce to nigdy nie wiadomo, gdzie cokolwiek na tej stronie znaleźć xd Dość powiedzieć, że SJO PW ma ocenę na Google 1.2 ⭐ / 5.0 ⭐. Jak chcecie coś załatwić w SJO, to mailem nie polecam, bo potrafią nie odpisać. Można się do nich przejść i mieć nadzieję, że gwiazdy się dobrze ułożą, a ci będą mieli dobry humor, bo bez tego może się nie udać.
+
+Co semestr to się może zmieniać, ale standardowo to jest tak, że student, aby sobie dostać inż. czy tam lic., to musi zdać ten ich śmieszny ACERT (niekoniecznie z angielskiego), który jest mniej więcej na poziomie B2. Można go zdać w dowolnym momencie studiów, np. w czasie pierwszej sesji albo przed samą obroną.
 
 Jeśli nie zaliczyłeś jeszcze ACERT, to musisz chodzić na “przygotowawcze do ACERT”, co jest bardzo podobnym do angielskiego w szkole. Jest jakaś książeczka, coś tam się robi z niej zadanka i zazwyczaj 2 sprawdziany w semestrze. Plus jest taki, że zawsze pasuje Ci to do planu, bo jest się automagicznie na to zapisanym i nie trzeba się stresować. Also, to są jedne zajęcia 2 razy w tygodniu, a nie 2 oddzielne jak opisano niżej.
 
-Jeśli zaliczyłeś już ACERT, to nie możesz iść na te przygotowawcze. Wydaje się to oczywiste, ale śmiesznie jest, jeśli zdałeś ACERT z Niemieckiego i chcesz na przygotowawczy na angielski, to już się nie da i kropka xd W każdym razie jest kilka rodzajów zajęć, na jakie można się zapisać i one są wszystkie za 2 ECTS, więc oni chcą, żeby wybrać z nich 2. Nie można wybrać 2 lektoratów.
+Jeśli zaliczyłeś już ACERT, to nie możesz iść na te przygotowawcze. Wydaje się to oczywiste, ale śmiesznie jest, jeśli zdałeś ACERT z niemieckiego i chcesz na przygotowawczy na angielski, to już się nie da i kropka xd W każdym razie jest kilka rodzajów zajęć, na jakie można się zapisać i one są wszystkie za 2 ECTS, więc oni chcą, żeby wybrać z nich 2. Nie można wybrać 2 lektoratów.
 
 1. Lektoraty językowe
 	* przyjemne i chillowe
 	* zazwyczaj wystarczy na zaliczenie zrobić jakąś prezentację i bajlando
 	* czasem nawet obecność nie jest obowiązkowa
 2. Inne języki od początku
-	* Niemiecki, Francuski, Rosyjski, Japoński, Włoski, Hiszpański, Chiński, Szwedzki; nie wiem, czy jeszcze jakieś
+	* niemiecki, francuski, rosyjski, japoński, włoski, hiszpański, chiński, szwedzki; nie wiem, czy jeszcze jakieś
 	* Większość osób ocenia, że są łatwe
 	* Też jest podział na takie śmieszne moduły. Pierwszy jest moduł M1. Nie można powtórzyć modułu i nie można później pójść na niższy.
 3. Język angielski B2+ i wyżej
 	* Tak jak przygotowawcze do ACERT, tylko, że na wyższym levelu
 
 Zapisy są śmieszne. Przed semestrem o ustalonej godzinie otwierają się zapisy dla całego PW. Obviousely, wszystko działa maksymalnie 30 sekund. Potem pada. Czasem wraca za 30 minut, czasem za 8 godzin. Nie wiadomo, a może pasuje Ci do planu tylko jeden lektorat i masz problem?
-Nie wiem, gdzie są te zapisy. Kiedyś były na jakiejść śmiesznej stronie, a teraz podobno sa na USOSie, ale to musicie sobie sprawdzić.
+Nie wiem, gdzie są te zapisy. Kiedyś były na jakiejś śmiesznej stronie, a teraz są na USOS-ie w zakładce rejestracja (jak coś to piszcie do Marty - powiedziała, że pomoże).
 
 
 <a name="Języki-Niestandardowo"></a>
+
 #### Niestandardowo
-Da się zapisać na więcej niż jeden lektorat językowy, jeśli Pani w SJO się zgodzi. Generalnie da się dużo dogadać, jeśli się zgodzą, inna sprawa, że rzadko się zgadzają na cokolwiek xd
+Da się zapisać na więcej niż jeden lektorat językowy, jeśli Pani w SJO się zgodzi lub nie zauważy. Generalnie da się dużo dogadać, jeśli się zgodzą, inna sprawa, że rzadko się zgadzają na cokolwiek xd
 
-Ja sobie zrobiłem tak, że zapisałem się na jeden lektorat i (zgodnie z **rezygnacja z przedmiotu** w rozdziale **Indywidualne studiowanie**) przepisałem sobie 2 ECTS na następny semestr. Na tym następnym zapisałem się na inny lektorat i to przeszło więc xd.
+Ja sobie zrobiłem tak, że zapisałem się na jeden lektorat i (zgodnie z **rezygnacja z przedmiotu** w rozdziale [Indywidualne studiowanie](#Indywidualne-studiowanie)) przepisałem sobie 2 ECTS na następny semestr. Na tym następnym zapisałem się na inny lektorat i to przeszło, więc xd.
 
-Można zaliczyć jakimś innym certyfikatem, ale znów to zależy od ich humoru. Koleżanka mi mówiła, że miała certyfikat na C2, a była zapisana na przedmiot z C1 i prowadzący postawił jej za ten certyfikat 3. Żeby mieć więcej musiała zrobić prezentację, więc równie dobrze mogłaby zaliczyć ten przedmiot standardowo.
+Można zaliczyć jakimś innym certyfikatem, ale znów to zależy od ich humoru. Koleżanka mi mówiła, że miała certyfikat na C2, a była zapisana na przedmiot z C1 i prowadzący postawił jej za ten certyfikat 3. Żeby mieć więcej, musiała zrobić prezentację, więc równie dobrze mogłaby zaliczyć ten przedmiot standardowo ¯\\\_(ツ)_/¯
 
 ### WF
 
 <a name="WF-Standardowo"></a>
+
 #### Standardowo
 Są darmowe WFy jak koszykówka, basen, judo, aerobik, joga, box, kulturystyka, kickboxing i inne. Zapisy są na USOSie i też jak się otwierają, to wywala serwer xd. Na nich trzeba ćwiczyć na 11 z 13 zajęć, żeby Ci zaliczyli.
 
@@ -152,11 +151,14 @@ Są też WFy płatne jak golf, wspinaczka, taniec (Rivera) itp. Na nich zazwycza
 Są narty i jakieś chodzenie i to jest inne, bo są tylko 2 wyjścia w semestrze zamiast 13. Doświadczenie pokazuje, że szybko się w tym kończą miejsca.
 
 <a name="WF-Niestandardowo"></a>
+
 #### Niestandardowo
 Podobno można się wesoło zapisać do jakiejś sekcji sportowej i tam są normalnie treningi co tydzień jak normalny WF. Nie wiem, czym to się różni, ale wiem, że mało osób tak robi.
 
 
 <a name="Stypendia-kasa"></a>
+
+
 ## Stypendia - kasa
 SSPW zrobili świetny [poradnik stypendialny](https://www.bss.pw.edu.pl/Media/Files/Poradnik-Stypendialny11).
 Tu opiszę w skrócie tak, jak ja to widzę, ale polecam przeczytać ten oficjalny poradnik.
@@ -238,8 +240,15 @@ Jest jeszcze coś takiego jak Centrum Studiów Zaawansowanych. Ja do końca nie 
 
 Pod ten rozdział podpada też Erasmus, ale ten program zasługuje na własny rozdział.
 
+### Centrum Studiów Zaawansowanych (CSZ)
+To taka śmieszna organizacja, co wymyśla sobie przedmioty. Zazwyczaj są przeznaczone dla doktorantów i studenci magisterki mogą się zapisać. Można sobie zerknąć jaką mają [ofertę w tym semie](http://www.konwersatorium.pw.edu.pl/oferta/w_podstawowe.html). Zazwyczaj są po 2 albo 3 ECTS. Ciekawe są, bo to jedynie wykłady i potem egzamin z nich.
+
+W tym semie podobmo jest jakiś całkowicie dla studentów pierwszego i drugiego stopnia "W Poszukiwaniu Teraźniejszości" za 2 ECTS.
+
 
 <a name="Samorząd-Studentów-Politechniki-Warszawskiej-SSPW"></a>
+
+
 ## Samorząd Studentów Politechniki Warszawskiej - SSPW
 Duża organizacja. Łączy się ona z innymi podobnymi, ale sama też jest podzielona na wiele mniejszych części. Najogólniej rzecz ujmując, jest to szyld, pod którym działają studenci PW dla dobra wszystkich studentów PW.
 
@@ -254,7 +263,7 @@ Często WRS szuka ludzi do pomocy. Jeśli chciałbyś podziałać dla dobra wsp�
 Nasz WRS zajmuje się takimi rzeczami jak:
 
 1. Otrzęsiny po wakacjach
-2. Działaniem [Funpagea](https://www.facebook.com/wrsminipw)
+2. Działaniem [Fanpagea](https://www.facebook.com/wrsminipw)
 3. Bal na wiosnę
 4. Bluzy wydziałowe
 5. Dekorowanie wydziału w grudniu
@@ -276,6 +285,8 @@ Są jeszcze inne, indywidualne sposoby na “zaliczenie” obieraka, czyli w pra
 Jest nitka na AltMiniawie, gdzie studenciaki oceniali obieraki na których byli. Polecam poczytać przed zapisaniem się.
 
 Jeśli oblejesz obieraka, to nie musisz w następnym roku iść na tego samego. Możesz sobie zrobić inny przedmiot. Oczywiście trzeba zapłacić za oblanie przedmiotu.
+
+Są takie śmieszne bloki obieraków w planie studiów. Np. na IiAD na 5 semie jest blok "Programowanie aplikacji wielowarstwowych" i w ramach niego są 2 przedmioty do wyboru. Trzeba wybrać jeden z tych dwóch. W innych blokach może być więcej, jak np. "Zaawansowane zagadnienia matematyki" to blok obieralny na IiSI na magisterce gdzie wybrać trzeba jeden z coś koło 6 przedmiotów.
 
 
 ## AltMiniawa
@@ -337,6 +348,8 @@ Semestr kończy się sesją (patrz rozdział sesja). W czasie sesji nie ma zaję
 
 
 <a name="Wydział-budynek"></a>
+
+
 ## Wydział - budynek
 Potocznie zwany szklarnią. Mający adres ul. Koszykowa 75 (są 4 budynki pod tym adresem, weźcie to pod uwagę, jakbyście musieli wzywać karetkę - podajcie dokładnie, że wydział matematyki - szklany). Gdyby coś się stało i potrzebujesz pomocy na wydziale, to dzwoń na portiernię: 22 234 13 11 Portierzy mają certyfikaty pierwszej pomocy.
 
@@ -415,8 +428,8 @@ Na koniec semestru w USOS są ankiety, gdzie możesz opisać, co Ci leży na ser
 * Grammarly - Premium dla studentów. Nie pamiętam jak załatwić
 * EDEN - klaster obliczeniowy na MiNI. Całkiem potężny, bardzo drogi - dziekan się nim chwali. Większość prowadzących ma do niego dostęp i można np. robić obliczenia dla swojej pracy dyplomowej albo jakiegoś artykułu naukowego
 * [Github Pro for Students](https://education.github.com/) - Fajny pakiet narzędzi od Microsoftu (i nie tylko) dla studentów m.in. GH Copilot i Figma Pro. Wystarczy do utworzonego wcześniej konta GitHub dodać maila uczelnianego i wejść na [stronę](https://education.github.com/pack/join), aby aktywować ten pakiet. Czasami mogą poprosić też o skan legitymacji i zdjęcie. Ogólnie warto.
-* InteliJ Educational Edition - Dostajesz wszystkie plusy Enterprise za darmo. Jak coś piszesz w Javie, to jest to livesaver. Warto [dołączyć](https://education.github.com/pack/join) przez Github'a Premium dla studentów, o którym mowa powyżej.
-
+* jetbrains, czyli InteliJ Educational Edition, PyCharm i więcej - Dostajesz wszystkie plusy Enterprise za darmo. Jak coś piszesz w Javie, to jest to livesaver. Warto [dołączyć](https://education.github.com/pack/join) przez Github'a Premium dla studentów, o którym mowa powyżej.
+* Mathematica, MATLAB, MS Office - więcej info na [stronie MiNI](https://ww2.mini.pw.edu.pl/laboratorium/oprogramowanie/).
 
 
 ## Dyski kierunkowe
@@ -456,9 +469,9 @@ Zdarza się, że student nie jest zadowolony z działania WRS-u. Moim zdaniem le
 
 
 ## Randomowe
-Ogłoszenia o rzeczach, które dzieją się na wydziale najszęciej są wysyłane mailem. Sprawdzajcie swoją skrzynkę Outlook regularnie. Rzeczy dla studenów są rzucane przez [WRS na ich FunPage](https://www.facebook.com/groups/1898215117122909/user/100063529845505/), albo na grupę na FB [MiNI ogłoszenia](https://www.facebook.com/groups/miniogloszenia). Niektóre rzecz są na kartkach wieszane na parterze w różnych gablotkach.
+Ogłoszenia o rzeczach, które dzieją się na wydziale najszęciej są wysyłane mailem. Sprawdzajcie swoją skrzynkę Outlook regularnie. Rzeczy dla studenów są rzucane przez [WRS na ich Fanpage](https://www.facebook.com/groups/1898215117122909/user/100063529845505/), albo na grupę na FB [MiNI ogłoszenia](https://www.facebook.com/groups/miniogloszenia). Niektóre rzecz są na kartkach wieszane na parterze w różnych gablotkach.
 
-
+Co do zasady, policja i pozostałe słóźby pożądkowe nia mają wstępu na teren uczelni wyższych w Polsce. Mogą wejść jedynie za zgodą Rektora, albo ewentualnie jeśli jest uzasadnione podejrzenie niebezpieczeństwa. Od 30 lat zdarzyło się raz, że Policja wtargnęła na uczelnię nieuprawniona - w 2020 na PW. Media się na ten temat rozpisywały - polecam poczytać.
 
 
 
@@ -472,4 +485,5 @@ Ogłoszenia o rzeczach, które dzieją się na wydziale najszęciej są wysyłan
 * łatwe studia
 * obronić inżyniera w 23(?) semestry?
 * Badania lekarskie
+* Koła naukowe - Tutornia
 
