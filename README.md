@@ -19,6 +19,7 @@ Czyli poradnik dla studentów MiNI
      - [Niestandardowo](#WF-Niestandardowo)
 6. [Stypendia - kasa](#Stypendia-kasa)
 7. [Indywidualne studiowanie](#Indywidualne-studiowanie)
+	- [Centrum Studiów Zaawansowanych (CSZ)](#CSZ)
 8. [Samorząd Studentów Politechniki Warszawskiej - SSPW](#Samorząd-Studentów-Politechniki-Warszawskiej-SSPW)
    - [WRS MiNI](#WRS-MiNI)
 9. [Obieraki](#Obieraki)
@@ -32,8 +33,11 @@ Czyli poradnik dla studentów MiNI
 17. [PW ma kupione dla studentów sporo rzeczy](#PW-ma-kupione-dla-studentów-sporo-rzeczy)
 18. [Dyski kierunkowe](#Dyski-kierunkowe)
 19. [Dziekanat](#Dziekanat)
-18. [Randomowe](#Randomowe)
-19. [TODO](#TODO)
+20. [Sesja](#Sesja)
+	- [Wrzesień](#Wrzesień)
+20. [Randomowe](#Randomowe)
+21. [TODO](#TODO)
+
 
 ## Wstęp
 Zostałeś studentem MiNI. Gratulacje! To jednak nie koniec trudności. Ale spokojnie, bo to, czego nauczysz się na tym wydziale, to serio są rzeczy wartościowe i przydatne (w większości). A co za tym idzie, wysoko cenione na rynku pracy.
@@ -241,6 +245,8 @@ Jest taka furtka na organizowanie indywidualnych przedmiotów. Nazywa się to Pr
 Jest jeszcze coś takiego jak Centrum Studiów Zaawansowanych. Ja do końca nie wiem, jak to działa, ale to są przedmioty dla ludzi na magisterce, albo doktorantów z całego PW. Wydaje mi się, że to co do zasady są po prostu wykłady bez ćwiczeń i na koniec jest egzamin z tego wykładu. Raczej mało ECTS, ale fajne propozycje tam czasem są. [Link do strony z ofertą](http://www.konwersatorium.pw.edu.pl/oferta/w_podstawowe.html).
 
 Pod ten rozdział podpada też Erasmus, ale ten program zasługuje na własny rozdział.
+
+<a name="CSZ"></a>
 
 ### Centrum Studiów Zaawansowanych (CSZ)
 To taka śmieszna organizacja, co wymyśla sobie przedmioty. Zazwyczaj są przeznaczone dla doktorantów i studenci magisterki mogą się zapisać. Można sobie zerknąć jaką mają [ofertę w tym semie](http://www.konwersatorium.pw.edu.pl/oferta/w_podstawowe.html). Zazwyczaj są po 2 albo 3 ECTS. Ciekawe są, bo to jedynie wykłady i potem egzamin z nich.
