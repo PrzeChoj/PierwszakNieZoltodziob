@@ -99,6 +99,8 @@ Nie trzeba zostawać Starostą na zawsze xd Można zrezygnować, może być wiel
 
 
 <a name="Języki+WF"></a>
+
+
 ## Języki + WF
 Na MiNI to działa tak, że są one w programie studiów wpisane w semestry 2, 3 oraz 4. Prawie wszyscy właśnie na tych semestrach to robią. Oczywiście można skorzystać z tego, co opisane w rozdziale o robieniu przedmiotów na zapas. Jest też możliwość robienia ich później niż w programie studiów - patrz rozdział **Indywidualne studiowanie**.
 
@@ -344,7 +346,7 @@ Czasem dziekan ogłasza Godziny Dziekańskie. Wtedy nie ma zajęć po prostu. Je
 
 Semestr kończy się sesją (patrz rozdział sesja). W czasie sesji nie ma zajęć. Masz 2 podejścia, więc jak napiszesz sobie swój ostatni egzamin, to zaczynają Ci się ferie po prostu. Jeśli zaliczysz wszystko w pierwszym tygodniu, to masz 2 tygodnie ferii, a jak zaliczysz ostatni egzamin w drugim tygodniu, to masz jeden semestr ferii.
 
-**Wrzesień**, to zasługuje na specjalny rozdział xd
+**Wrzesień**, to opisane w [innym rozdziale](#Wrzesień).
 
 
 <a name="Wydział-budynek"></a>
@@ -464,6 +466,19 @@ Jeśli macie jakąś sprawę, która waszym zdaniem wymaga ingerencji prodziekan
 Zdarza się, że student nie jest zadowolony z działania WRS-u. Moim zdaniem lepiej jest w tej sytuacji przyjść na posiedzenie WRS i o tym porozmawiać co było nie tak i w ten sposób rozwiązać problem od środka. Niektórzy jednak wolą napisać maila skargę do prodziekana odpowiedniego i jakby "atakować WRS od zewnątrz". To też jest jakaś droga, choć jej nie polecam.
 
 
+## Sesja
+Niektóre przedmioty kończą się egzaminem. Na pierwszym semestrze przedmioty matematyczne mają egzaminy dwuczęściowe - zadania i teorię. Na każdym przedmiocie jest inaczej i to zależy od prowadzącego, wiec przejdźcie się na pierwsze zajęcia i się dowiecie tego, co trzeba.
+
+Ważne do powiedzenia jest, że Regulamin Studiów PW przewiduje, że każdy egzamin ma 3 terminy. 2 od razu po semestrze i jeden we wrześniu. Każdy z nich powinien być na podobnym poziomie trudności, ale różnie to czasem bywa. Nie ma żadnej różnicy, w którym terminie się podejdzie - nie ma żadnego wstydu, że ktoś zda egzamin w trzecim, a ktoś inny w pierwszym terminie. Studia to nie wyścigi.
+
+To już musicie sobie sami się zastanowić, na które terminy chcecie iść. Najczęściej nie ma żadnej kary za pójście na egzamin. Ja lubiłem chodzić na egzamin nawet, jak nie umiałem, bo a nuż się trafi te 10% zadań, które umiesz, ale nawet jeśli nie, to wiesz czego się nauczyć na kolejny termin. Ją jednak studenci, którzy tak się stresują, że wybierają niechodzenia na egzamin. Albo i tak nic z tego nie wyciągają, że decydują się nie marnować czasu.
+
+Plan sesji podawany jest na [stronie MiNI](https://ww2.mini.pw.edu.pl/studia/plany-zajec-i-procedury/plan-sesji/) jakoś 2 tygodnie przed sesją. Jeśli nakładają Ci się jakieś kilka egzaminów w tym samym czasie, to niech starosta zgłosi się do WRS - tak być nie może. W przypadku egzaminów ustnych najczęściej wykładowca jakoś się umawia na exelu ze studentami.
+
+### Wrzesień
+We wrześniu sesja trwa jakoś 2 tygodnie na samym początku września. Niektóre przedmioty mają to do siebie, że egzaminy wrześniowe są ciut prostsze.
+
+Przestrzegam was przed prokrastynacją - wakacje są na tyle długie, że może odechcieć się uczyć do egzaminu wrześniowego.
 
 
 
@@ -481,7 +496,6 @@ Co do zasady, policja i pozostałe słóźby pożądkowe nia mają wstępu na te
 
 * Samouczek
 * Erasmus
-* Wrzesień
 * łatwe studia
 * obronić inżyniera w 23(?) semestry?
 * Badania lekarskie
