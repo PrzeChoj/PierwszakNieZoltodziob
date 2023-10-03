@@ -102,7 +102,7 @@ Nie trzeba zostawać Starostą na zawsze xd Można zrezygnować, może być wiel
 
 
 ## Języki + WF
-Na MiNI to działa tak, że są one w programie studiów wpisane w semestry 2, 3 oraz 4. Prawie wszyscy właśnie na tych semestrach to robią. Oczywiście można skorzystać z tego, co opisane w rozdziale o robieniu przedmiotów na zapas. Jest też możliwość robienia ich później niż w programie studiów - patrz rozdział **Indywidualne studiowanie**.
+Na MiNI to działa tak, że są one w programie studiów wpisane w semestry 2, 3 oraz 4. Prawie wszyscy właśnie na tych semestrach to robią. Oczywiście można skorzystać z tego, co opisane w rozdziale o robieniu przedmiotów na zapas. Jest też możliwość robienia ich później niż w programie studiów - patrz rozdział [Indywidualne studiowanie](#Indywidualne-studiowanie).
 
 ### Języki
 
@@ -197,7 +197,7 @@ Bardziej szczegółowe informacje o stypendiach:
 	- Liczy się średnia ważona po ECTSach.
 	- Z ocen liczą się 2 ostatnie semestry - przedmioty jakie masz w planie studiów.
 		* Jeśli powtarzałeś przedmiot, to on się nie liczy
-		* Jeśli robiłeś przedmiot “na zapas”, to się nie liczy. Jeśli kiedyś robiłeś przedmiot “na zapas”, to liczy się on wtedy, kiedy miałeś go wpisanego w planie studiów. Jeśli nie wiesz, o co chodzi w tym punkcie, to patrz rozdział **Indywidualne studiowanie**.
+		* Jeśli robiłeś przedmiot “na zapas”, to się nie liczy. Jeśli kiedyś robiłeś przedmiot “na zapas”, to liczy się on wtedy, kiedy miałeś go wpisanego w planie studiów. Jeśli nie wiesz, o co chodzi w tym punkcie, to patrz rozdział [Indywidualne studiowanie](#Indywidualne-studiowanie).
 2. Zapomoga
 	- Kupujesz to, co tam potrzebujesz, bierzesz fakturę na nazwisko. Potem masz 3 miesiące na złożenie zapomogi.
 	- Wniosek składa się na USOSie -> Dla wszystkich -> Wnioski -> Wniosek o zapomogę
@@ -282,7 +282,7 @@ Nasz WRS zajmuje się takimi rzeczami jak:
 ## Obieraki
 W planie studiów są wpisane przedmioty obieralne. Są takie “kanonicznie obieralne” przedmioty, które są ogłaszane, że są obieralne i można się na nie zapisać. Prawda jest jednak taka, że każdy przedmiot realizowany na wydziale może być dla Ciebie obieralnym. Jak jesteś na matmie, to możesz robić “Bazy Danych” jako obierak, mimo że nie jest to oficjalnie obierak, a obowiązkowy dla infy i IiAD-u.
 
-Są jeszcze inne, indywidualne sposoby na “zaliczenie” obieraka, czyli w praktyce zdobycie ECTS. Opisane są w rozdziale **Indywidualne studiowanie**.
+Są jeszcze inne, indywidualne sposoby na “zaliczenie” obieraka, czyli w praktyce zdobycie ECTS. Opisane są w rozdziale [Indywidualne studiowanie](#Indywidualne-studiowanie).
 
 Jest nitka na AltMiniawie, gdzie studenciaki oceniali obieraki na których byli. Polecam poczytać przed zapisaniem się.
 
@@ -378,7 +378,7 @@ W portierni mają klucze do klubu i sal; kredę do zielonych tablic; można też
 
 O stołówce nie ma zbyt wiele do powiedzenia - jest. Prowadzona jest przez zewnętrzną firmę. Da się zdążyć w 15 minut zjeść i wrócić na zajęcia.
 
-Pokój WRS to miejsce, gdzie każdy student jest mile widziany i może się tam skontaktować z członkami i sympatykami WRS. Można do nich przyjść z każdym studenckim problemem i oni chętnie pomogą. Czasem (rzadko) jest zamknięte - sprawdźcie na FaceBooku, kiedy dyżur ma ta osoba, co nas interesuje. Więcej info w rozdziale **Samorząd Studentów Politechniki Warszawskiej - SSPW**.
+Pokój WRS to miejsce, gdzie każdy student jest mile widziany i może się tam skontaktować z członkami i sympatykami WRS. Można do nich przyjść z każdym studenckim problemem i oni chętnie pomogą. Czasem (rzadko) jest zamknięte - sprawdźcie na FaceBooku, kiedy dyżur ma ta osoba, co nas interesuje. Więcej info w rozdziale [Samorząd Studentów Politechniki Warszawskiej - SSPW](#Samorząd-Studentów-Politechniki-Warszawskiej-SSPW).
 
 Klub Studencki to pierwszy pokój w "nodze". Jest dostępny dla wszystkich studentów MiNI. Można tam sobie zjeść (jest mikrofala, czajnik, naczynia - pamiętajcie, żeby po sobie pozmywać 😡), albo posiedzieć po prostu. Często na przerwach studenci się uczą, bo są tam białe tablice.
 
@@ -386,11 +386,11 @@ Kiedyś na trzecim piętrze przy schodach były coś jakby "pokoje cichej nauki"
 
 W 311 jest 16 kompuerów specjalnie dla studentów i można sobie popracować. Jest tam też tablica zielona, więc można się wspólnie pouczyć. [Link z oficjalnymi informacjami](https://ww2.mini.pw.edu.pl/laboratorium/laboratoria/sala218/).
 
-W 323 mieszkają informatycy. Można ich odwiedzić jak coś się z komputerami popsuje na wydziale - oni zawsze wiedzą jak to naprawić, bo są GigaChadami. Np. jak macie problem się zalogować. Mogą też pomóc w załatwieniu rzeczy, które PW kupuje dla studentów, patrz rozdział **PW ma kupione dla studentów sporo rzeczy**. Also, oni mają pisaki do białych tablic. Można też wynająć laptopa albo przejściówkę HTML / VGA na czas prezentacji.
+W 323 mieszkają informatycy. Można ich odwiedzić jak coś się z komputerami popsuje na wydziale - oni zawsze wiedzą jak to naprawić, bo są GigaChadami. Np. jak macie problem się zalogować. Mogą też pomóc w załatwieniu rzeczy, które PW kupuje dla studentów, patrz rozdział [PW ma kupione dla studentów sporo rzeczy](#PW-ma-kupione-dla-studentów-sporo-rzeczy). Also, oni mają pisaki do białych tablic. Można też wynająć laptopa albo przejściówkę HTML / VGA na czas prezentacji.
 
 Na wydziale jest system druku czarno-białego. Jedna strona chyba kosztuje coś koło 0.08 wirtualnych zł. Każdy student ma w semestrze przeznaczone 5 wirtualnych zł. Starości i członkowie WRS mają więcej. Doktoranci i pracownicy mają nieskończoność. Drukowanie jest łatwe, ale nie chce mi się opisywać. [Skomplikowany opis można znaleźć tutaj](https://ww2.mini.pw.edu.pl/laboratorium/system-druku/)
 
-Dziekanat jest w korytarzu za dywanem Sierpińskiego w pokoju 32 (uwaga, niektóre tabliczki twierdzą, że 33, ale to bait, bo 33 to pokój obron 🙈). Otwarci na petentów są w poniedziałki, wtorki, czwartki i piątki od 11 do 14. W pozostałych godzinach zajmują się sprawami studenckimi, ale nie można do nich przyjść. Można napisać maila dziekanat.wmini@pw.edu.pl i szybko odpisują. Patrz rozdział **Dziekanat**.
+Dziekanat jest w korytarzu za dywanem Sierpińskiego w pokoju 32 (uwaga, niektóre tabliczki twierdzą, że 33, ale to bait, bo 33 to pokój obron 🙈). Otwarci na petentów są w poniedziałki, wtorki, czwartki i piątki od 11 do 14. W pozostałych godzinach zajmują się sprawami studenckimi, ale nie można do nich przyjść. Można napisać maila dziekanat.wmini@pw.edu.pl i szybko odpisują. Patrz rozdział [Dziekanat](#Dziekanat).
 
 Pan Hubert Pająk mieszka w pokoju 27.
 
@@ -415,13 +415,13 @@ Na koniec semestru w USOS są ankiety, gdzie możesz opisać, co Ci leży na ser
 
 
 ## Czemu to jest na moich studiach?
-* WF - 3 semestry bez punktów ECTS. Trzeba zaliczyć, co jest wrzodem na dupie, bo czasem ciężko dopasować do planu. Jest w ustawie o szkolnictwie, że mamy mieć ileś tam zajęć WF
+* WF - 3 semestry bez punktów ECTS. Trzeba zaliczyć, co jest wrzodem na dupie, bo czasem ciężko dopasować do planu. Jest w ustawie o szkolnictwie, że mamy mieć ileś tam zajęć WF.
 * Język - 3 semestry, razem 12 ECTS. Fajnie, że jest duży wybór. Mówi się, że jeśli ktoś chce się nauczyć języka, to na PW dostanie dobry wstęp, a jeśli ktoś chce się nie nauczyć języka, to na PW może, bo te zajęcia są "za łatwe". Dla mnie były one trudne i spoto musiałe poświęcić na to czasu, ale ja zawsze miałem problem z językami obcymi ¯\\\_(ツ)\_/¯
 * Fizyka - ktoś mi kiedyś powiedział, że Unia Europejska sobie wymyśliła, że jeśli jakaś uczelnia nazywa się "Politechniką", czy tam "University of Technology", to każdy kierunek musi mieć co najmniej 5 ECTS Fizyki. U nas Wydział Fizyki sprytnie oferuje kursy po 4 ECTS, więc muszą być takie dwa ( ͡° ͜ʖ ͡°)
-* Humany - Na naszym wydziale humany są bardzo kompetentne. Kreatywne rozwiązywanie problemów, Techniki prezentacji, Podstawy przedsiębiorczości, Wprowadzenie do pracy z literaturą naukową, Zarządzanie przedsięwzięciami informatycznymi, Historia rachunku prawdopodobieństwa i statystyki. Bardzo dobrze wspominam te zajęcia i nie uważam je za czas zmarnowany
-* Szkolenie BHB - godzinka wykładu, za moich czasów panowie, co to prowadzili mówili bardzo ciekawe rzeczy i warto było posłuchać. Może się zdarzyć, że będziecie musieli wiedzieć jak się ratować. Na naszym wydziale była już jedna nietreningowa ewakuacja
+* Humany - Na naszym wydziale humany są bardzo kompetentne. Kreatywne rozwiązywanie problemów, Techniki prezentacji, Podstawy przedsiębiorczości, Wprowadzenie do pracy z literaturą naukową, Zarządzanie przedsięwzięciami informatycznymi, Historia rachunku prawdopodobieństwa i statystyki. Bardzo dobrze wspominam te zajęcia i nie uważam je za czas zmarnowany.
+* Szkolenie BHB - godzinka wykładu, za moich czasów panowie, co to prowadzili mówili bardzo ciekawe rzeczy i warto było posłuchać. Może się zdarzyć, że będziecie musieli wiedzieć jak się ratować. Na naszym wydziale była już jedna nietreningowa ewakuacja.
 * Przysposobienie biblioteczne - każdy student musi przez to przejść niestety. Nawet jeśli nie zamierzasz wypożyczać książek - czego nie polecam, bo nasza biblioteka jest bardzo bogata w dobre podręczniki i jest super. Patrz rozdział Biblioteka. Słyszałem, że nawet niewidomi studenci mają obowiązek przejść przysposobienie biblioteczne ¯\\\_(ツ)\_/¯
-* Inne przedmioty, które niczego nie wnoszą - plan kierunku praktycznie jest ustalana na posiedzeniach Rady Kierunku, gdzie zazwyczaj jest ~10 prowadzących oraz ~3 studentów. Jeśli chcesz mieć wpływ na to, jak wygląda kierunek, to można postarać się do tej rady wstąpić. Jeśli TY chcesz mieć inne przedmioty, to da się to zrobić, patrz rozdział **Indywidualne studiowanie**
+* Inne przedmioty, które niczego nie wnoszą - plan kierunku praktycznie jest ustalana na posiedzeniach Rady Kierunku, gdzie zazwyczaj jest ~10 prowadzących oraz ~3 studentów. Jeśli chcesz mieć wpływ na to, jak wygląda kierunek, to można postarać się do tej rady wstąpić. Jeśli TY chcesz mieć inne przedmioty, to da się to zrobić, patrz rozdział [Indywidualne studiowanie](#Indywidualne-studiowanie).
 
 
 ## PW ma kupione dla studentów sporo rzeczy
