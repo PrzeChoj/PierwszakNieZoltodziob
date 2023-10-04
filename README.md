@@ -203,16 +203,19 @@ Bardziej szczegółowe informacje o stypendiach:
 		* Jeśli powtarzałeś przedmiot, to on się nie liczy
 		* Jeśli robiłeś przedmiot “na zapas”, to się nie liczy. Jeśli kiedyś robiłeś przedmiot “na zapas”, to liczy się on wtedy, kiedy miałeś go wpisanego w planie studiów. Jeśli nie wiesz, o co chodzi w tym punkcie, to patrz rozdział [Indywidualne studiowanie](#Indywidualne-studiowanie).
 2. Zapomoga
-	- Kupujesz to, co tam potrzebujesz, bierzesz fakturę na nazwisko. Potem masz 3 miesiące na złożenie zapomogi.
-	- Wniosek składa się na USOSie -> Dla wszystkich -> Wnioski -> Wniosek o zapomogę
-	- Tam trzeba zaznaczyć, że “Przejściowo znalazłem(-am) się w trudnej sytuacji materialnej”, ale nie słyszałem, żeby to jakoś bardzo restrykcyjnie sprawdzali
-	- Przykładowe rzeczy, na które może być przyznana zapomoga:
+	a) Kupujesz to, co tam potrzebujesz, bierzesz fakturę na nazwisko. Potem masz 3 miesiące na złożenie zapomogi.
+	b) Wniosek składa się na USOSie -> Dla wszystkich -> Wnioski -> Wniosek o zapomogę
+	c) Tam trzeba zaznaczyć, że “Przejściowo znalazłem(-am) się w trudnej sytuacji materialnej”, ale nie słyszałem, żeby to jakoś bardzo restrykcyjnie sprawdzali
+	d) Przykładowe rzeczy na które może być przyznana zapomoga:
 		* Komputer
 		* Część komputerowe - ekran (bo się popsuł), RAM itp
 		* Naprawa zepsutego komputera
 		* Okulary
-		* Leczenie
-	- Ostateczną decyzję o przyznaniu i wielkości zapomogi dokonuje Wydziałowa Komisja Stypendialna. Część jej członków to studenci, z którymi można pogadać, jeśli się nie wie, czy to, co chcesz kupić, nadaje się na zapomogę. O szczegóły pytaj w WRS.
+		* Leczenie (równierz członka bliskiej rodziny)
+		* Straty spowodowane pożarem, powidzią, innymi wypadkami
+		* Śmierć najbliższego członka rodziny
+		* Rzeczy zakupione dla nowonarodzonego dziecka studenta
+	e) Ostateczną decyję o przyznaniu i wielkości zapomogi dokonuje Wydziałowa Komisja Stypendialna. Część jej członków to studenci, z którymi można pogadać, jeśli się nie wie, czy to co chcesz kupić nadaje się na zapomogę. Potpytaj w WRS.
 3. Socjalne
 	- W 2022/2023 stypendium było dla studentów, których rodzin dochód miesięczny na osobę nie przekraczał 1051.70 PLN
 	- Sporo papierów trzeba załatwić
