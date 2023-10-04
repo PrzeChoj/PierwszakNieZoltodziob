@@ -166,7 +166,7 @@ Podobno można się wesoło zapisać do jakiejś sekcji sportowej i tam są norm
 
 
 ## Stypendia - kasa
-SSPW zrobili świetny [poradnik stypendialny](https://www.bss.pw.edu.pl/Media/Files/Poradnik-Stypendialny11).
+SSPW zrobili świetny [poradnik stypendialny 2022](https://www.bss.pw.edu.pl/Media/Files/Poradnik-Stypendialny11) oraz [poradnik stypendialny 2023](https://www.bss.pw.edu.pl/content/download/1017/5287/file/Poradnik%20Stypendialny%20SSPW%202023_2024.pdf).
 Tu opiszę w skrócie tak, jak ja to widzę, ale polecam przeczytać ten oficjalny poradnik.
 
 1. Jest kilka opcji na dostanie kasy od PW:
@@ -186,6 +186,7 @@ Tu opiszę w skrócie tak, jak ja to widzę, ale polecam przeczytać ten oficjal
 Bardziej szczegółowe informacje o stypendiach:
 
 1. Rektora
+	- W 2023/2024 MiNI jest eksperymentalnym wydziałem na którym składanie będzie na USOS, a nie papierowo ¯\\\_(ツ)_/¯
 	- Studenci są pogrupowani po kierunkach i stopniach.
 		* Jeśli na IiAD na 3cim roku będzie 40 osób ze średnią 5.0, to student IiAD na 2gim roku ze średnią 4.9 nie dostanie stypendium nawet, jeśli będzie najlepszy na swoim roku.
 		* Wyniki średnich na IiAD nie wpływają na wyniki na MAD itd.
