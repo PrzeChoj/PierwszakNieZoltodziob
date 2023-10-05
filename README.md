@@ -37,6 +37,7 @@ Czyli poradnik dla studentów MiNI
 	- [Wrzesień](#Wrzesień)
 21. [Łatwe studia](#Łatwe-studia)
 22. [Po co oceny?](#Po-co-oceny?)
+23. [Praca dyplomowa](#Praca-dyplomowa)
 22. [Samouczek](#Samouczek)
 20. [Randomowe](#Randomowe)
 21. [TODO](#TODO)
@@ -86,10 +87,11 @@ Rozdziały są w losowej kolejności - w zależności od tego, jak chciało mi s
 9. [BIP PW](https://www.bip.pw.edu.pl/)
 10. [Regulamin studiów PW](https://www.bip.pw.edu.pl/Wewnetrzne-akty-prawne/Regulaminy/Regulamin-studiow-w-Politechnice-Warszawskiej2)
 11. [Grupa MiNI ogłoszenia](https://www.facebook.com/groups/miniogloszenia/)
+12. [Regulamin studiów PW](https://www.bip.pw.edu.pl/Wewnetrzne-akty-prawne/Regulaminy/Regulamin-studiow-w-Politechnice-Warszawskiej2)
 
 
 ## Podział na grupy dziekańskie
-Na MiNI na pierwszym stopniu są 4 kierunki - matma, MAD, IiAD, infa, ale o tym pewnie już wiesz. Na pierwszym roku wiele z tych kierunków ma wspólnie przedmioty. Później mniej, ale trochę też. W każdym razie wykłady są wspólnie dla wszystkich, którzy robią dany przedmiot. Ćwiczenia są zazwyczaj w grupach 20 - 30 osobowych. Laboratoria są w salach z komputerami, które są do 16 osób.
+Na MiNI na pierwszym stopniu są 4 kierunki - matma, MAD, IiAD, infa (CS pomijam w tym poradniku xd), ale o tym pewnie już wiesz. Na pierwszym roku wiele z tych kierunków ma wspólnie przedmioty. Później mniej, ale trochę też. W każdym razie wykłady są wspólnie dla wszystkich, którzy robią dany przedmiot. Ćwiczenia są zazwyczaj w grupach 20 - 30 osobowych. Laboratoria są w salach z komputerami, które są do 16 osób.
 
 To jest powód istnienia podziału na grupy dziekańskie (USOS.pl -> Dla studentów -> (po lewej stronie) Moje studia -> (po lewej stronie) Grupy dziekańskie). Podział ten z grubsza mówi, z kim będziesz chodził na zajęcia. Trzeba wiedzieć, w jakiej się jest, bo pisze się to czasem w dokumentach czy tam innych mailach.
 
@@ -493,15 +495,21 @@ We wrześniu sesja trwa jakoś 2 tygodnie na samym początku września. Niektór
 
 Przestrzegam was przed prokrastynacją - wakacje są na tyle długie, że może odechcieć się uczyć do egzaminu wrześniowego.
 
+Przy okazji pamiętajcie, że nauczyciele akademiccy też mają wakacje, więc raczej trudniej jest się z nimi skonsultować. W semestrze jest łatwo o jakieś grupowe konsultacje i często nauczyciele się na takie coś zgadzają.
+
 
 ## Łatwe studia
 Jak zrobić tak, żeby się nie narobić, a dostać dyplom?
 
-Zacznijmy od tego, że oceny nie są istotne. Można każdy przedmiot zdać na 3 i dostaje się taki sam (prawie) dyplom jak każdy. Po więcej info patrz rozdział **Po co oceny?**. Najczęściej dość łatwo jest dostać 3, choć nie widać tego na pierwszy rzuc oka. Pamiętajcie, że wydział MiNI jest ciężki, więc nawet na 3 trzeba się często postarać.
+Zacznijmy od tego, że oceny nie są istotne. Można każdy przedmiot zdać na 3 i dostaje się taki sam (prawie) dyplom jak każdy. Po więcej info patrz rozdział **Po co oceny?**. Najczęściej dość łatwo jest dostać 3, choć nie widać tego na pierwszy rzut oka. Pamiętajcie, że wydział MiNI jest ciężki, więc nawet na 3 trzeba się często postarać.
 
 Trzeba dokładnie czytać regulamin przedmiotu, bo on jest obowiązujący. Często jednak jak się człowiek dogada z prowadzącym, to może mieć łatwiejsze zaliczenie, ale trzeba z tym uważać (patrz [Praca a studia](#Praca-a-studia)).
 
-Najczęściej na wykładzie podawane jest bardzo dużo rzeczy, które później nie są sprawdzane na kolosach, ani egzaminie. Trzeba trochę wyczuć co może być sprawdzane - nigdy nie pytajcie się prowadzącego co może być na egzaminie, bo to bardzo niemiłe. 
+Najczęściej na wykładzie podawane jest bardzo dużo rzeczy, które później nie są sprawdzane na kolosach, ani egzaminie. Trzeba trochę wyczuć co może być sprawdzane - nigdy nie pytajcie się prowadzącego, co może być na egzaminie, bo to bardzo niemiłe.
+
+Polecam korzystać z dysków kierunkowych, gdzie często są kolokwia i egzaminy z wcześniejszych lat. Dobrze jest się przygotować na tego typu zadania jak były wcześniej.
+
+Jak prowadzący was lubi, to może się zgodzić na ciut inne zasady zaliczenia. Np. mówił, że trzeba oddać projekt przed sesją, ale można go próbować przekonać i oddać ostatniego dnia sesji. Tu jednak bym nie liczył, że to się uda za każdym razem, bo niektórzy prowadzący stoją twardo za wprowadzonymi zasadami.
 
 
 ## Po co oceny?
@@ -511,15 +519,53 @@ Oceny co do zasady nie mają znaczenia, ale dają kilka benefitów:
 2. Jak chce się pojechać na [Erazmusa](#Erasmus), to wysoka średnia jest istotnym argumentem za.
 3. Jak chce się dostać na magisterkę, to wysoka średnia jest plusem. Na niektóre kierunki (np. Data Science) jak się ma wysoką średnią (chyba > 4.2), to jest się zwolnionym z części egzaminu wstępnego.
 4. Jak chce się dostać na doktorat, to trzeba mieć średnią >= 4.0.
-5. Na koniec studiów wyciąga się średnią ze studiów (60% to średnia (ważona po ECTS) z przedmiotów z wszystkich 7 semestrów, 30% to ocena pracy średnia z wszystkich recencji, 10% to ocena odpowiedzi na pytania na obronie). Ta ocena też co do zasady nie ma znaczenia, ale jak się ma >= 4.7, to się dostaje "dyplom z wyróżnieniem" i można się chwalić, że jest się "wyróżnionym absolwentem MiNI PW".
+5. Na koniec studiów wyciąga się średnią ze studiów (60% to średnia (ważona po ECTS) z przedmiotów z wszystkich 7 semestrów, 30% to ocena pracy średnia z wszystkich recenzji, 10% to ocena odpowiedzi na pytania na obronie). Ta ocena też co do zasady nie ma znaczenia, ale jak się ma >= 4.7, to się dostaje "dyplom z wyróżnieniem" i można się chwalić, że jest się "wyróżnionym absolwentem MiNI PW".
 6. Wysoka średnia jest dobrym argumentem dla wszystkich spraw do załatwienia z ludźmi pracującymi na wydziale. Dziekan jest bardziej chętny, żeby pozwolić zmienić kierunek, albo zapisać się dodatkowo na jakiś przedmiot, albo pozwolić wam zmienić grupę jak jest za dużo miejsc. Tacy studenci czasem dostają od pracowników naukowych propozycje współpracy nad projektami realizowanymi na wydziale (oczywiście odpłatne).
 7. Stypendium Rektora - patrz [Stypendia - kasa](#Stypendia-kasa).
+
+
+## Praca dyplomowa
+Na koniec studiów trzeba napisać pracę dyplomową. Na pierwszym stopniu na matmie i MAD jest licencjat. Na IiAD oraz infie jest inżynierka. Na drugim stopniu jest magisterka. To nie jest nic strasznego - od trochę większy projekt do zrobienia i jakiś pseudo raporcik trochę dłuższy.
+
+Niby w planie studiów jest przewidziane na to ileś tam ECTS, ale w praktyce jest na to mało czasu na wszystkich stopniach i kierunkach. Najbardziej na brak czasu narzekają chyba ci, co piszą licencjat.
+
+[Regulamin studiów PW](https://www.bip.pw.edu.pl/Wewnetrzne-akty-prawne/Regulaminy/Regulamin-studiow-w-Politechnice-Warszawskiej2) §29, punkt 4 mówi, że "Praca dyplomowa może być pracą zespołową, pod warunkiem że udział każdego z jej wykonawców jest szczegółowo określony". W praktyce u nas na wydziale się przyjęło, że pracę inż. pisze się w parach, a licencjat i magisterkę samodzielnie. Zdarza się, że pracę inż. niektórzy piszą samodzielnie albo w trójkach, ale nie słyszałem, żeby licencjat albo magisterkę robić w kilka osób. Można jednak próbować, trzymam kciuki 🤞
+
+Domyślnie praca będzie pisana w języku studiów, ale można złożyć wniosek do dziekana o pisanie w języku innym (np. angielskim). Dziekan zawsze się na to zgadzam, więc polecam jeśli komuś tak wygodniej.
+
+W pracy musi być streszczenie i słowa klucze po polsku oraz po angielsku. Tak, nawet jeśli ktoś nie zna polskiego, studiuje na CS i pracę pisze po angielsku, to i tak musi mieć streszczenie i słowa klucze po polsku - po prostu ktoś mu to musi napisać ¯\\\_(ツ)_/¯ Jeśli chce się dostać odpis dyplomu w innym języku (Niemiecki, Francuski, Rosyjski itp.), to trzeba mieć streszczenie i słowa klucze w pracy też w tym języku.
+
+Jak tak sobie rozmawiam z ludźmi, to wychodzi na to, że w czasie pisania pracy każdy potrafiłby przez godzinę opowiadać o tym, co zrobił/robi. Pół roku później potrafi przez godzinę opowiadać o tym, co zrobił ŹLE xd Nie ma co się zbyt stresować pracą dyplomową - jest, ale szybko się zapomina co tam w tym projekcie było robione xd
+
+My dostawaliśmy takiego śmiesznego maila, żeby zrobić plakat reklamujący pracę dyplomową, że to niby tradycja na MiNI. Otóż nie, to nie jest tradycja na MiNI xd Jak ktoś chce, to zapraszam, ale u nas nikt nie zrobił, a każdy dostał dyplom, więc xd
+
+Regulamin studiów nie przewiduje, kiedy trzeba złożyć pracę - można to zrobić już na pierwszym semestrze. Jak ktoś chce, to można pisać inżynierkę w parze jedna osoba na 7-mym semestrze, a druga na 5-tym.
+
+Jest [APD - Archiwum Prac Dyplomowych](https://apd.usos.pw.edu.pl). To miejsce, gdzie mieszkają wszystkie prace na PW. Zwykły student ma dostęp do tytułów, streszczeń oraz informacji o promotorze każdej z prac na PW. Niestety nie ma dostępu do samej ich treści :< Można sobie jednak poczytać jakieś wcześniejsze prace potencjalnego promotora. Polecam sobie poprzeglądać - dla mnie to było motywujące.
+
+Przykładowo licencjat może wyglądać tak, że się znajduje w necie (czytaj: "promotor Ci daje do przeczytania" xd) jakąś pracę opublikowaną pod tytułem "Elementarny dowód (...)", który trwa np. 7 stron. Potem się w swojej pracy przepisuje ten dowód na 40 stron. Np. jak autor oryginalnej pisze "Jak widać, powyższa funkcja jest bijekcją", to się to pisze w naszym licencjacie jako "Lemat 5" i dowodzi przez 2 strony xd Jak ktoś się uprze, to może zrobić bardziej techniczny licencjat (jakiś kod i analizę itp.), ale trzeba coś udowodnić w tej pracy, żeby promotor miał pretekst, żeby tą pracę przyjąć jako licencjat xd
+
+Inżynierka to się pisze jakiś software i w samej pracy musi być jakiś rozdział "dokumentacja techniczna", czy coś takiego. U mnie to trwało 2 strony i przeszło xd Generalnie promotor musi mieć jakiś pretekst, żeby powiedzieć, że to jest wyczyn techniczny. Jak ktoś się uprze, to może zrobić bardzo teoretyczną inżynierkę, ale coś technicznego musi tam być.
+
+Jeśli praca nie jest gotowa, a kończy się ostatni semestr studiów, to można zgłosić się o przedłużenie terminu zgłoszenia pracy o 3 miesiące. Jeśli wciąż nie będzie to gotowe, to niestety, ale trzeba będzie się wznawiać na obronę, co kosztuje kilka stówek. Generalnie macie chyba 5 lat na wznowienie się (patrz rozdział [Obrona](#Obrona)).
+
+Są dość popularne konkursiki na pracę dyplomową. Polecam się zainteresować, można jakąś kasę czasem wygrać. A nawet jeśli nie, to może dostać ciekawą opinię pracy, bo jakiś manager z dużej firmy technologicznej może akurat był w komisji i mu się Twoja praca spodoba.
+
+Jak się pisze inżynierkę, to na ostatnim semestrze jest taki śmieszny przedmiot "Projekt Zespołowy", który ma pomóc studentom w napisaniu pracy. Tam się jakieś milestone'y robi i za oddanie promotorowi części pracy się jakieś punkciki dostaje i potem z tego jest ocena. Pamiętam, że ludzie narzekali na to, że to takie twarde sami, a oni woleliby mieć więcej wolności w pisaniu własnej pracy.
+
+
+## Obrona
+Jak się ma zdane wszystkie przedmioty i złoży się pracę w [APD](https://apd.usos.pw.edu.pl), to wyznaczany jest termin obrony. Na obronie robi się krótką prezentację o swojej pracy (~10 minut). Potem komisja zadaje 3 pytania z całych stidów (jedno ma być luźno związane z pisaną pracą). Na każde z nich trzeba jakoś odpowiedzieć - ja powiecie "nie wiem", to oblewacie obronę i trzeba powtarzać całą obronę. Infa na dysku ma wspaniały plik z pytaniami, jakie były na obronach - cudowne źródło do nauki. IiAD ma jakieś tam coś tam jest. Matma nie wiem.
+
+Jak się wznawiasz, a w międzyczasie zmienił się program studiów, to musisz zrobić te przedmioty, co się nowe pojawiły albo zmieniły. Np. na informatyce na magisterce MSI dodali w 2021 przedmiot "Deep Learning Methods" i usunęli fizykę. Jednak jeśli ktoś zrobił przedmiot fizyka, a potem nie obronił się odpowiednio szybko, to potem i tak musiał dodatkowo ten przedmiot "Deep Learning Methods" robić.
+
+Jeśli się pracę pisało w kilka osób, to może się zdarzyć, że jedna osoba ma już wszystko zdane i chce się obronić, a druga ma jeszcze jakiś przedmiot (np. statę xd) do zdania. Wtedy organizuje się obronę i wszyscy autorzy przychodzą i prezentują pracę, ale tylko Ci, co mają wszystko zdane, dostają pytania z całych studiów - tylko oni mogą się w pełni obronić. Pozostali dostaną własny termin własnej obrony, gdy zdadzą wszystkie przedmioty.
 
 
 ## Samouczek
 Dla chętnych!!! Powtórka wiedzy z liceum. Oni coś tam gadają głupoty, że za to są jakieś punkty z aktywności, czy coś, ale to nie prawda.
 
-Jest taki test 15 pytań zamknietych wielokrotnego wyboru. Jeśli zdasz na 80%, to ok. Jak nie, to musisz to 5 razy zrobić. Matma jest podzielona na podstawę i rozszeżenie, a fizyka podobno nie.
+Jest taki test 15 pytań zamkniętych wielokrotnego wyboru. Jeśli zdasz na 80%, to ok. Jak nie, to musisz to 5 razy zrobić. Matma jest podzielona na podstawę i rozszerzenie, a fizyka podobno nie.
 
 
 ## Randomowe
