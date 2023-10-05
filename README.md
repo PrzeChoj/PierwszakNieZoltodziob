@@ -35,6 +35,9 @@ Czyli poradnik dla studentów MiNI
 19. [Dziekanat](#Dziekanat)
 20. [Sesja](#Sesja)
 	- [Wrzesień](#Wrzesień)
+21. [Łatwe studia](#Łatwe-studia)
+22. [Po co oceny?](#Po-co-oceny?)
+22. [Samouczek](#Samouczek)
 20. [Randomowe](#Randomowe)
 21. [TODO](#TODO)
 
@@ -491,6 +494,32 @@ We wrześniu sesja trwa jakoś 2 tygodnie na samym początku września. Niektór
 Przestrzegam was przed prokrastynacją - wakacje są na tyle długie, że może odechcieć się uczyć do egzaminu wrześniowego.
 
 
+## Łatwe studia
+Jak zrobić tak, żeby się nie narobić, a dostać dyplom?
+
+Zacznijmy od tego, że oceny nie są istotne. Można każdy przedmiot zdać na 3 i dostaje się taki sam (prawie) dyplom jak każdy. Po więcej info patrz rozdział **Po co oceny?**. Najczęściej dość łatwo jest dostać 3, choć nie widać tego na pierwszy rzuc oka. Pamiętajcie, że wydział MiNI jest ciężki, więc nawet na 3 trzeba się często postarać.
+
+Trzeba dokładnie czytać regulamin przedmiotu, bo on jest obowiązujący. Często jednak jak się człowiek dogada z prowadzącym, to może mieć łatwiejsze zaliczenie, ale trzeba z tym uważać (patrz [Praca a studia](#Praca-a-studia)).
+
+Najczęściej na wykładzie podawane jest bardzo dużo rzeczy, które później nie są sprawdzane na kolosach, ani egzaminie. Trzeba trochę wyczuć co może być sprawdzane - nigdy nie pytajcie się prowadzącego co może być na egzaminie, bo to bardzo niemiłe. 
+
+
+## Po co oceny?
+Oceny co do zasady nie mają znaczenia, ale dają kilka benefitów:
+
+1. Jak jest za dużo chętnych na obieraki, to dostają się Ci z najwyższą średnią.
+2. Jak chce się pojechać na [Erazmusa](#Erasmus), to wysoka średnia jest istotnym argumentem za.
+3. Jak chce się dostać na magisterkę, to wysoka średnia jest plusem. Na niektóre kierunki (np. Data Science) jak się ma wysoką średnią (chyba > 4.2), to jest się zwolnionym z części egzaminu wstępnego.
+4. Jak chce się dostać na doktorat, to trzeba mieć średnią >= 4.0.
+5. Na koniec studiów wyciąga się średnią ze studiów (60% to średnia (ważona po ECTS) z przedmiotów z wszystkich 7 semestrów, 30% to ocena pracy średnia z wszystkich recencji, 10% to ocena odpowiedzi na pytania na obronie). Ta ocena też co do zasady nie ma znaczenia, ale jak się ma >= 4.7, to się dostaje "dyplom z wyróżnieniem" i można się chwalić, że jest się "wyróżnionym absolwentem MiNI PW".
+6. Wysoka średnia jest dobrym argumentem dla wszystkich spraw do załatwienia z ludźmi pracującymi na wydziale. Dziekan jest bardziej chętny, żeby pozwolić zmienić kierunek, albo zapisać się dodatkowo na jakiś przedmiot, albo pozwolić wam zmienić grupę jak jest za dużo miejsc. Tacy studenci czasem dostają od pracowników naukowych propozycje współpracy nad projektami realizowanymi na wydziale (oczywiście odpłatne).
+7. Stypendium Rektora - patrz [Stypendia - kasa](#Stypendia-kasa).
+
+
+## Samouczek
+Dla chętnych!!! Powtórka wiedzy z liceum. Oni coś tam gadają głupoty, że za to są jakieś punkty z aktywności, czy coś, ale to nie prawda.
+
+Jest taki test 15 pytań zamknietych wielokrotnego wyboru. Jeśli zdasz na 80%, to ok. Jak nie, to musisz to 5 razy zrobić. Matma jest podzielona na podstawę i rozszeżenie, a fizyka podobno nie.
 
 
 ## Randomowe
@@ -506,8 +535,8 @@ Co do zasady, policja i pozostałe słóźby pożądkowe nia mają wstępu na te
 
 * Samouczek
 * Erasmus
-* łatwe studia
 * obronić inżyniera w 23(?) semestry?
 * Badania lekarskie
 * Koła naukowe - Tutornia
+* Status studenta - do dnia obrony
 
