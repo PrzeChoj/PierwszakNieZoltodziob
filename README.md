@@ -447,6 +447,7 @@ Na koniec semestru w USOS są ankiety, gdzie możesz opisać, co Ci leży na ser
 * [Github Pro for Students](https://education.github.com/) - Fajny pakiet narzędzi od Microsoftu (i nie tylko) dla studentów m.in. GH Copilot i Figma Pro. Wystarczy do utworzonego wcześniej konta GitHub dodać maila uczelnianego i wejść na [stronę](https://education.github.com/pack/join), aby aktywować ten pakiet. Czasami mogą poprosić też o skan legitymacji i zdjęcie. Ogólnie warto.
 * jetbrains, czyli InteliJ Educational Edition, PyCharm i więcej - Dostajesz wszystkie plusy Enterprise za darmo. Jak coś piszesz w Javie, to jest to livesaver. Warto [dołączyć](https://education.github.com/pack/join) przez Github'a Premium dla studentów, o którym mowa powyżej.
 * Mathematica, MATLAB, MS Office - więcej info na [stronie MiNI](https://ww2.mini.pw.edu.pl/laboratorium/oprogramowanie/).
+* Office 365 i Windows - ale nie wiem jak je zdobyć.
 
 
 ## Dyski kierunkowe
@@ -522,6 +523,7 @@ Oceny co do zasady nie mają znaczenia, ale dają kilka benefitów:
 5. Na koniec studiów wyciąga się średnią ze studiów (60% to średnia (ważona po ECTS) z przedmiotów z wszystkich 7 semestrów, 30% to ocena pracy średnia z wszystkich recenzji, 10% to ocena odpowiedzi na pytania na obronie). Ta ocena też co do zasady nie ma znaczenia, ale jak się ma >= 4.7, to się dostaje "dyplom z wyróżnieniem" i można się chwalić, że jest się "wyróżnionym absolwentem MiNI PW".
 6. Wysoka średnia jest dobrym argumentem dla wszystkich spraw do załatwienia z ludźmi pracującymi na wydziale. Dziekan jest bardziej chętny, żeby pozwolić zmienić kierunek, albo zapisać się dodatkowo na jakiś przedmiot, albo pozwolić wam zmienić grupę jak jest za dużo miejsc. Tacy studenci czasem dostają od pracowników naukowych propozycje współpracy nad projektami realizowanymi na wydziale (oczywiście odpłatne).
 7. Stypendium Rektora - patrz [Stypendia - kasa](#Stypendia-kasa).
+8. Jak się idzie na inne studia i się ma podobny przedmiot, to można przepisać ocenę - jeżeli prowadzący się zgodzi. Prowadzący chętniej się na to zgadzają gdy student ma wysoką ocenę. Pamiętam, jak ktoś na pierwszym wykładzie z Rachunku Prawdopodobieństwa powiedział wykłądowcy, że chciałby przepisać ocenę z EiTI z przedmiotu o tej samej nazwie. Prowadzący natychmiast odpowieział "Nie.", ale student powiedział, że on miał 5 z tego. Prowadzący odpowiedział więc, że się zastanowi. Ostatecznie i tak nie przepisał xd
 
 
 ## Praca dyplomowa
@@ -563,9 +565,11 @@ Jeśli się pracę pisało w kilka osób, to może się zdarzyć, że jedna osob
 
 
 ## Samouczek
-Dla chętnych!!! Powtórka wiedzy z liceum. Oni coś tam gadają głupoty, że za to są jakieś punkty z aktywności, czy coś, ale to nie prawda.
+Dla chętnych!!! Ja nie wiem czemu oni twierdzą na tej stronie, że jest on obowiązkowy 🙄
 
-Jest taki test 15 pytań zamkniętych wielokrotnego wyboru. Jeśli zdasz na 80%, to ok. Jak nie, to musisz to 5 razy zrobić. Matma jest podzielona na podstawę i rozszerzenie, a fizyka podobno nie.
+Powtórka wiedzy z liceum. Oni coś tam gadają głupoty, że za to są jakieś punkty z aktywności, czy coś, ale to nie prawda. Nie podciągali jak ktoś miał zrobiony samouczek, ani nie karali jak ktoś nie maił.
+
+Jest taki test 15 pytań zamkniętych wielokrotnego wyboru. Jeśli zdasz na 80%, to ok. Jak nie, to "musisz" to 5 razy zrobić. Matma jest podzielona na podstawę i rozszerzenie, a fizyka podobno nie.
 
 
 ## Randomowe
@@ -579,7 +583,6 @@ Co do zasady, policja i pozostałe słóźby pożądkowe nia mają wstępu na te
 
 ## TODO:
 
-* Samouczek
 * Erasmus
 * obronić inżyniera w 23(?) semestry?
 * Badania lekarskie
