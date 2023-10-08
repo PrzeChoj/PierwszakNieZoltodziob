@@ -166,6 +166,8 @@ Są narty i jakieś chodzenie i to jest inne, bo są tylko 2 wyjścia w semestrz
 #### Niestandardowo
 Podobno można się wesoło zapisać do jakiejś sekcji sportowej i tam są normalnie treningi co tydzień jak normalny WF. Nie wiem, czym to się różni, ale wiem, że mało osób tak robi.
 
+Słyszałem też, że można zaliczyć WF chodząc na chór, zpit albo endineer's band. Nic na ten temat nie wiem, więc musisz się sam zorientować, jeśli to Cię interesuje...
+
 
 <a name="Stypendia-kasa"></a>
 
