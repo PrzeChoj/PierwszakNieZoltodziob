@@ -137,12 +137,14 @@ Jeśli zaliczyłeś już ACERT, to nie możesz iść na te przygotowawcze. Wydaj
 2. Inne języki od początku
 	* niemiecki, francuski, rosyjski, japoński, włoski, hiszpański, chiński, szwedzki; nie wiem, czy jeszcze jakieś
 	* większość osób ocenia, że są łatwe
-	* też jest podział na takie śmieszne moduły. Pierwszy jest moduł M1. Nie można powtórzyć modułu i nie można później pójść na niższy.
+	* też jest podział na takie śmieszne moduły. Pierwszy jest moduł M1. Generalnie nie można powtórzyć modułu i nie można później pójść na niższy. Czasem się zgadzają jak jest ładna pogoda
 3. Język angielski B2+ i wyżej
 	* tak jak przygotowawcze do ACERT, tylko, że na wyższym levelu
 
 Zapisy są śmieszne. Przed semestrem o ustalonej godzinie otwierają się zapisy dla całego PW. Obviously, wszystko działa maksymalnie 30 sekund. Potem pada. Czasem wraca za 30 minut, czasem za 8 godzin. Nie wiadomo, a może pasuje Ci do planu tylko jeden lektorat i masz problem?
-Nie wiem, gdzie są te zapisy. Kiedyś były na jakiejś śmiesznej stronie, a teraz są na USOS-ie w zakładce rejestracja (jak coś to piszcie do Marty - powiedziała, że pomoże).
+Zapisy są na USOS: Dla studentów -> Rejestracja -> Rejestracje na przedmioty -> [odpowiednia rejestracja].
+
+Panuje powszechna opinia, że wszyscy prowadzący z Francuskiego są spoko i da się z nimi dogadać.
 
 
 <a name="Języki-Niestandardowo"></a>
@@ -309,11 +311,11 @@ Jest nitka na AltMiniawie, gdzie studenciaki oceniali obieraki na których byli.
 
 Jeśli oblejesz obieraka, to nie musisz w następnym roku iść na tego samego. Możesz sobie zrobić inny przedmiot. Oczywiście trzeba zapłacić za oblanie przedmiotu.
 
-Są takie śmieszne bloki obieraków w planie studiów. Np. na IiAD na 5 semie jest blok "Programowanie aplikacji wielowarstwowych" i w ramach niego są 2 przedmioty do wyboru. Trzeba wybrać jeden z tych dwóch. W innych blokach może być więcej, jak np. "Zaawansowane zagadnienia matematyki" to blok obieralny na IiSI na magisterce gdzie wybrać trzeba jeden z coś koło 6 przedmiotów.
+Są takie śmieszne bloki obieraków w planie studiów. Np. na IiAD na 5 semie jest blok "Programowanie aplikacji wielowarstwowych" i (czasem) w ramach niego są 2 przedmioty do wyboru. Trzeba wybrać jeden z tych dwóch. W innych blokach może być więcej, jak np. "Zaawansowane zagadnienia matematyki" to blok obieralny na IiSI na magisterce gdzie wybrać trzeba jeden z coś koło 6 przedmiotów.
 
 
 ## AltMiniawa
-Facebookowa grupka memowa na FB. Czasem zmienia nazwy. Od 2020 jest mało aktywna, niestety. Mam wrażenie, że w 2023 połowa memów była moja ( ͡° ͜ʖ ͡°).
+Facebookowa grupka memowa na FB. Czasem zmienia nazwy. Jest prywatna, więc trzeba dostać zaproszenie do niej, żeby ją wgl. widzieć. Od 2020 jest mało aktywna, niestety. Mam wrażenie, że w 2023 połowa memów była moja ( ͡° ͜ʖ ͡°).
 
 W każdym razie polecam się dodać, śmiech przez łzy pomaga przejść przez studia. Ja lubiłem sobie przeglądać, jak się akurat jakiś nudny wykład wylosował - poprawiało mi to humorek.
 
@@ -355,7 +357,7 @@ Języki i WF trzeba sobie samemu do planu dopasować. Jest bardzo duży wybór, 
 
 W każdym semestrze musi być 15 poniedziałków, 15 wtorków itd. Przez święta itp. normalnie brakowałoby niektórych dni tygodnia. Dlatego czasem np. w piątek może być plan zajęć z wtorku.
 
-Zajęcia na PW planowo zaczynają się 15 po. Często prowadzący przesuwają sobie, żeby np. zaczynać 30 po i żeby nie było przerwy. Za moich czasów WF zaczynał się o pełnych godzinach, więc to jeszcze inaczej było - trzeba na to zwrócić uwagę.
+Zajęcia na PW planowo zaczynają się 15 po. Często prowadzący przesuwają sobie, żeby np. zaczynać 30 po i żeby nie było przerwy. WF zaczyna się o pełnych godzinach (ewentualnie :30 po), więc to jeszcze inaczej było - trzeba na to zwrócić uwagę przy zapisach.
 
 Czasem na USOS jest źle napisane - a to prowadzący; a to dzień jest wolny, a na USOS nie jest; a to powinien być plan z wtorku, a USOS uparcie twierdzi, że jest piątek. USOS to dobra wskazówka, ale nie zawsze jest to prawda w nim.
 
@@ -376,7 +378,7 @@ Semestr kończy się sesją (patrz rozdział sesja). W czasie sesji nie ma zaję
 ## Wydział - budynek
 Potocznie zwany szklarnią. Mający adres ul. Koszykowa 75 (są 4 budynki pod tym adresem, weźcie to pod uwagę, jakbyście musieli wzywać karetkę - podajcie dokładnie, że wydział matematyki - szklany). Gdyby coś się stało i potrzebujesz pomocy na wydziale, to dzwoń na portiernię: 22 234 13 11. Portierzy mają certyfikaty pierwszej pomocy.
 
-Nasz wydział ma wszystkie (poza WF i językami, i chyba ostatnio wykładami z fizyki?) zajęcia w swoim budynku.
+Nasz wydział ma prawie wszystkie (poza WF, językami i labami z sieci komputerowych) zajęcia w swoim budynku.
 
 Ostatnio zrobiło się bardzo ciasno, bo budynek był zaprojektowany pod dużo mniej studentów, a zrobiliśmy się jednym z największych wydziałów na PW 🤷‍♂️
 
@@ -448,7 +450,7 @@ Na koniec semestru w USOS są ankiety, gdzie możesz opisać, co Ci leży na ser
 ## PW ma kupione dla studentów sporo rzeczy
 * [Springer](springer.com) - wszystkie podręczniki i prace naukowe od tego wydawcy (w tym wysokolevelowe matematyczne) są dostępne przez sieć PW za darmo jako PDF.
 * Biblioteka PW - papierowe bogactwo Biblioteki jest spore, szczególnie jeśli weźmie się pod uwagę inne filie, jak biblioteka EiTI. Also, [na stronie biblioteki](bg.pw.edu.pl) jest dużo źródeł online we współpracy z innymi bibliotekami.
-* Grammarly - Premium dla studentów. Nie pamiętam jak załatwić
+* Grammarly - Premium dla studentów. [Tutaj](https://bg.pw.edu.pl/index.php/aktualnosci-pl/871-program-grammarly-wersja-premium) jest napisane, że jedynie formularz się wypełnia. Tam gdzieś było napisane, że było ważne do kwietnia 2023 tylko, ale wiem, że póżniej ludziom i tak dawali, więc podejrzewam, że wciąż aktualne ¯\\\_(ツ)\_/¯
 * EDEN - klaster obliczeniowy na MiNI. Całkiem potężny, bardzo drogi - dziekan się nim chwali. Większość prowadzących ma do niego dostęp i można np. robić obliczenia dla swojej pracy dyplomowej albo jakiegoś artykułu naukowego
 * [Github Pro for Students](https://education.github.com/) - Fajny pakiet narzędzi od Microsoftu (i nie tylko) dla studentów m.in. GH Copilot i Figma Pro. Wystarczy do utworzonego wcześniej konta GitHub dodać maila uczelnianego i wejść na [stronę](https://education.github.com/pack/join), aby aktywować ten pakiet. Czasami mogą poprosić też o skan legitymacji i zdjęcie. Ogólnie warto.
 * JetBrains, czyli IntelliJ Educational Edition, PyCharm i więcej - Dostajesz wszystkie plusy Enterprise za darmo. Jak coś piszesz w Javie, to jest to livesaver. Warto [dołączyć](https://education.github.com/pack/join) przez Githuba Premium dla studentów, o którym mowa powyżej.
@@ -512,7 +514,7 @@ Zacznijmy od tego, że oceny nie są istotne. Można każdy przedmiot zdać na 3
 
 Trzeba dokładnie czytać regulamin przedmiotu, bo on jest obowiązujący. Często jednak, jak się człowiek dogada z prowadzącym, to może mieć łatwiejsze zaliczenie, ale trzeba z tym uważać (patrz [Praca a studia](#Praca-a-studia)).
 
-Najczęściej na wykładzie podawane jest bardzo dużo rzeczy, które później nie są sprawdzane na kolosach, ani egzaminie. Trzeba trochę wyczuć, co może być sprawdzane - nigdy nie pytajcie się prowadzącego, co może być na egzaminie, bo to bardzo niemiłe.
+Najczęściej na wykładzie podawane jest bardzo dużo rzeczy, które później nie są sprawdzane na kolosach, ani egzaminie. Trzeba trochę wyczuć, co może być sprawdzane. Moim zdaniem nie powinno się pytac prowadzącego, co może być na egzaminie, bo to bardzo niemiłe. Niektórzy i tak to robią i po zapytaniu faktycznie dostają odpowiedź, która pomoże zawęzić zakres materiału do nauki.
 
 Polecam korzystać z dysków kierunkowych, gdzie często są kolokwia i egzaminy z wcześniejszych lat. Dobrze jest się przygotować na tego typu zadania, jak były wcześniej.
 
@@ -571,9 +573,9 @@ Jeśli się pracę pisało w kilka osób, to może się zdarzyć, że jedna osob
 
 
 ## Samouczek
-Dla chętnych!!! Ja nie wiem czemu oni twierdzą na tej stronie, że jest on obowiązkowy 🙄
+Dla chętnych!!! Ja nie wiem czemu oni twierdzą na tej stronie, że jest on obowiązkowy 🙄 Jeszcze w mailu na początku studiów piszą: “Praca z Mat-Fiz Samouczkiem jest obowiązkowa, a osiągnięte przez Ciebie wyniki przekazane zostaną Twoim wykładowcom prowadzącym zajęcia z matematyki i z fizyki”. Natomiast nie było przypadku, żeby ktoś miał problemy ze studiów z powodu niezrobienia tego.
 
-Powtórka wiedzy z liceum. Oni coś tam gadają głupoty, że za to są jakieś punkty z aktywności, czy coś, ale to nie prawda. Nie podciągali, jak ktoś miał zrobiony samouczek, ani nie karali jak ktoś nie miał.
+Powtórka wiedzy z liceum. Za moich czasów oni coś tam gadali głupoty, że za to są jakieś punkty z aktywności, czy coś, ale tak nie było. Słyszałem jednak, że z Analizy Matematycznej 1 dla IIaD Dembińska mówiła, że podciągnie z 2 do 3, jeśli komuś brakowało 1 punkta (może 2 też, nie pamiętam), a miał 5 z samouczka.
 
 Jest taki test 15 pytań zamkniętych wielokrotnego wyboru. Jeśli zdasz na 80%, to ok. Jak nie, to "musisz" to 5 razy zrobić. Matma jest podzielona na podstawę i rozszerzenie, a fizyka podobno nie.
 
