@@ -9,7 +9,8 @@ Czyli poradnik dla studentów MiNI
 1. [Wstęp](#Wstęp)
 2. [Co to za dokument?](#Co-to-za-dokument)
 3. [Przydatne linki](#Przydatne-linki)
-4. [Podział na grupy dziekańskie](#Podział-na-grupy-dziekańskie)
+4. [Organizacja zajęć na MiNI PW]($Organizacja-zajęć-na-MiNI-PW)
+   - [Podział na grupy dziekańskie](#Podział-na-grupy-dziekańskie)
 5. [Języki + WF](#Języki+WF)
    - [Języki](#Języki)
      - [Standardowo](#Języki-Standardowo)
@@ -90,10 +91,13 @@ Rozdziały są w losowej kolejności - w zależności od tego, jak chciało mi s
 12. [Regulamin studiów PW](https://www.bip.pw.edu.pl/Wewnetrzne-akty-prawne/Regulaminy/Regulamin-studiow-w-Politechnice-Warszawskiej2)
 
 
-## Podział na grupy dziekańskie
+## Organizacja zajęć na MiNI PW
 Na MiNI na pierwszym stopniu są 4 kierunki - matma, MAD, IiAD, infa (CS pomijam w tym poradniku xd), ale o tym pewnie już wiesz. Na pierwszym roku wiele z tych kierunków ma wspólnie przedmioty. Później mniej, ale trochę też. W każdym razie wykłady są wspólnie dla wszystkich, którzy robią dany przedmiot. Ćwiczenia są zazwyczaj w grupach 20 - 30 osobowych. Laboratoria są w salach z komputerami, które są do 16 osób.
 
-To jest powód istnienia podziału na grupy dziekańskie (USOS.pl -> Dla studentów -> (po lewej stronie) Moje studia -> (po lewej stronie) Grupy dziekańskie). Podział ten z grubsza mówi, z kim będziesz chodził na zajęcia. Trzeba wiedzieć, w jakiej się jest, bo pisze się to czasem w dokumentach czy tam innych mailach.
+### Podział na grupy dziekańskie
+Podobno wyjątkowe dla PW. USOS.pl -> Dla studentów -> (po lewej stronie) Moje studia -> (po lewej stronie) Grupy dziekańskie
+
+To jest taki wygodny podział na grupy w których będziecie wspólnie chodzić na ćwiczenia. Trzeba wiedzieć, w jakiej się jest, bo pisze się to czasem w dokumentach czy tam innych mailach. Fajne, bo można się lepiej zgrać z tymi ludźmi z którymi masz (prawie) wszystkie zajęcia wspólnie.
 
 Co roku powstają grupy na FB dla studenciaków. Z różnym skutkiem - niektóre są bardzo aktywne, inne bardzo nieaktywne xd
 
@@ -590,4 +594,5 @@ Co do zasady, policja i pozostałe słóźby pożądkowe nia mają wstępu na te
 * Badania lekarskie
 * Koła naukowe - Tutornia
 * Status studenta - do dnia obrony
+* Wykłady, Ćwiczenia, Loboratoria (u nas tylko komputerowe (Poza tylko TD i fizyką chyba)), Projekty
 
