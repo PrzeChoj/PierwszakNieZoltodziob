@@ -39,6 +39,7 @@ Czyli poradnik dla studentów MiNI
 21. [Łatwe studia](#Łatwe-studia)
 22. [Po co oceny?](#Po-co-oceny?)
 23. [Praca dyplomowa](#Praca-dyplomowa)
+24. [Obrona](#Obrona)
 22. [Samouczek](#Samouczek)
 20. [Randomowe](#Randomowe)
 21. [TODO](#TODO)
