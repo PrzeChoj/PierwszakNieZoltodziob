@@ -45,6 +45,7 @@ Czyli poradnik dla studentów MiNI
 22. [Samouczek](#Samouczek)
 23. [Erasmus](#Erasmus)
 	- [ATHENS](#ATHENS)
+24. [Koła Naukowe](#Koła-Naukowe)
 20. [Randomowe](#Randomowe)
 21. [TODO](#TODO)
 
@@ -613,10 +614,18 @@ Jest taki test 15 pytań zamkniętych wielokrotnego wyboru. Jeśli zdasz na 80%,
 ## Erasmus
 Można na jeden semestr wyjechać za granicę na inną uczelnię. Zazwyczaj na naszym wydziale jest więcej miejsc niż chętnych do wyjazdu, bo nasz wydział dobrze uczy i studenci nie chcą go opuszczać ¯\\\_(ツ)_/¯
 
-Jest z tym trochę papierologii do załatwienia. Trzeba zrobić tak, żeby te przedmioty co się nie uda zaliczyć na MiNI, bo się będzie za granicą, to one realizują jakieś "efekty nauczania" i trzeba znaleść jakiś na tej naszej uczelni docelowej, który też ten efekt realizuje. Trzeba się z dziekanatem dogdać na ten temat, ale się da.
+Jest z tym trochę papierologii do załatwienia. Trzeba zrobić tak, żeby te przedmioty co się nie uda zaliczyć na MiNI, bo się będzie za granicą, to one realizują jakieś "efekty nauczania" i trzeba znaleźć jakiś na tej naszej uczelni docelowej, który też ten efekt realizuje. Trzeba się z dziekanatem dogadać na ten temat, ale się da.
 
 ### ATHENS
 O tym nie wiem zbyt wiele. Jest to taki jakby Erasmus, ale tylko na tydzień się wyjeżdża i się robi jeden przedmiot za 2, albo 3 ECTS. Tu raczej ciężej się dostać, bo jest mniej miejsc.
+
+
+## Koła Naukowe
+Zachęcam do dołączenia do jakiegoś koła. Dużo się można nauczyć i popracować nad ciekawymi projektami. Zachęcam w październiku pójść na Konik, na którym w GG się wystawiają Koła Naukowe i można sobie znaleźć coś dla siebie. Na MiNI jest Kucyk, czyli MiNI Konik, gdzie wystawiają się Koła Naukowe z naszego wydziału.
+
+
+## Tutornia
+Tutornia to po prostu darmowe korepetycje, które studenci MiNI wyższych lat udzielają młodrzym kolegą i koleżanką. Zapraszam do korzystania. Dzieje się to w ramach działania Koła Naukowego Matematyków.
 
 
 ## Randomowe
@@ -632,10 +641,8 @@ Na MiNI jest taka kultura, że studenci czasem prowadzą zajęcia. Taką ofertę
 
 ## TODO:
 
-* Erasmus
 * obronić inżyniera w 23(?) semestry?
 * Badania lekarskie
-* Koła naukowe - Tutornia
 * Status studenta - do dnia obrony
 * Wykłady, Ćwiczenia, Loboratoria (u nas tylko komputerowe (Poza tylko TD i fizyką chyba)), Projekty
 
