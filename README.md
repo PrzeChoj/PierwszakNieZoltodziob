@@ -34,6 +34,8 @@ Czyli poradnik dla studentów MiNI
 17. [PW ma kupione dla studentów sporo rzeczy](#PW-ma-kupione-dla-studentów-sporo-rzeczy)
 18. [Dyski kierunkowe](#Dyski-kierunkowe)
 19. [Dziekanat](#Dziekanat)
+	- [Główny dziekanat](#Główny-dziekanat)
+	- [Pozostała część dziekanatu](#Pozostała-część-dziekanatu)
 20. [Sesja](#Sesja)
 	- [Wrzesień](#Wrzesień)
 21. [Łatwe studia](#Łatwe-studia)
@@ -266,7 +268,7 @@ Pod ten rozdział podpada też Erasmus, ale ten program zasługuje na własny ro
 <a name="CSZ"></a>
 
 ### Centrum Studiów Zaawansowanych (CSZ)
-To taka śmieszna organizacja, co wymyśla sobie przedmioty. Zazwyczaj są przeznaczone dla doktorantów i studenci magisterki mogą się zapisać. Można sobie zerknąć jaką mają [ofertę w tym semie](http://www.konwersatorium.pw.edu.pl/oferta/w_podstawowe.html). Zazwyczaj są po 2 albo 3 ECTS. Ciekawe są, bo to jedynie wykłady i potem egzamin z nich.
+To taka śmieszna organizacja w ramach PW, co wymyśla sobie przedmioty. Zazwyczaj są przeznaczone dla doktorantów i studenci magisterki mogą się zapisać. Można sobie zerknąć jaką mają [ofertę w tym semie](http://www.konwersatorium.pw.edu.pl/oferta/w_podstawowe.html). Zazwyczaj są po 2 albo 3 ECTS. Ciekawe są, bo to jedynie wykłady i potem egzamin z nich.
 
 W tym semie podobmo jest jakiś całkowicie dla studentów pierwszego i drugiego stopnia "W Poszukiwaniu Teraźniejszości" za 2 ECTS.
 
@@ -506,6 +508,8 @@ Przestrzegam Was przed prokrastynacją - wakacje są na tyle długie, że może 
 
 Przy okazji pamiętajcie, że nauczyciele akademiccy też mają wakacje, więc raczej trudniej jest się z nimi skonsultować. W semestrze jest łatwo o jakieś grupowe konsultacje i często nauczyciele się na takie coś zgadzają.
 
+Na innych wydziałach trzecie terminy bywają w innych miesiącach. Np. na MELu są w marcu.
+
 
 ## Łatwe studia
 Jak zrobić tak, żeby się nie narobić, a dostać dyplom?
@@ -584,6 +588,8 @@ Jest taki test 15 pytań zamkniętych wielokrotnego wyboru. Jeśli zdasz na 80%,
 Ogłoszenia o rzeczach, które dzieją się na wydziale najszęciej są wysyłane mailem. Sprawdzajcie swoją skrzynkę Outlook regularnie. Rzeczy dla studenów są rzucane przez [WRS na ich Fanpage](https://www.facebook.com/groups/1898215117122909/user/100063529845505/), albo na grupę na FB [MiNI ogłoszenia](https://www.facebook.com/groups/miniogloszenia). Niektóre rzeczy są na kartkach wieszane na parterze w różnych gablotkach.
 
 Co do zasady, policja i pozostałe służby pożądkowe nia mają wstępu na teren uczelni wyższych w Polsce. Mogą wejść jedynie za zgodą Rektora, albo ewentualnie, jeśli jest uzasadnione podejrzenie niebezpieczeństwa. Od 30 lat zdarzyło się raz, że Policja wtargnęła na uczelnię nieuprawniona - w 2020 na PW. Media się na ten temat rozpisywały - polecam poczytać.
+
+Na MiNI jest taka kultura, że studenci czasem prowadzą zajęcia. Taką ofertę dostają najlepsi studenci na magisterce jako w pewnym sensie nagrodę. Regulamin wynagrodzeń na PW mówi, że w ramach "WYNAGRODZENIE NAUCZYCIELI AKADEMICKICH ZA GODZINY PONADWYMIAROWE" osoba zatrudniona na stanowisko "Asystent" zarabia 70 PLN / godzinę tablicową i tak jest to rozliczane przez wydział. Najłatwiej joko student dostać do prowadzenia jakieś laby albo projekt, ewentualnie ćwiczenia z matematyki na innych wdyziałach.
 
 
 
