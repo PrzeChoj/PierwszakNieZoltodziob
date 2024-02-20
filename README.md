@@ -41,6 +41,7 @@ Czyli poradnik dla studentów MiNI
 21. [Łatwe studia](#Łatwe-studia)
 22. [Po co oceny?](#Po-co-oceny?)
 23. [Praca dyplomowa](#Praca-dyplomowa)
+24. [Obrona](#Obrona)
 22. [Samouczek](#Samouczek)
 20. [Randomowe](#Randomowe)
 21. [TODO](#TODO)
@@ -311,7 +312,7 @@ Są jeszcze inne, indywidualne sposoby na “zaliczenie” obieraka, czyli w pra
 
 Jest nitka na AltMiniawie, gdzie studenciaki oceniali obieraki na których byli. Polecam poczytać przed zapisaniem się.
 
-Jeśli oblejesz obieraka, to nie musisz w następnym roku iść na tego samego. Możesz sobie zrobić inny przedmiot. Oczywiście trzeba zapłacić za oblanie przedmiotu.
+Jeśli oblejesz obieraka, to nie musisz w następnym roku iść na tego samego. Możesz sobie zrobić inny przedmiot. Trzeba napisać podanie i zapłacić warunek.
 
 Są takie śmieszne bloki obieraków w planie studiów. Np. na IiAD na 5 semie jest blok "Programowanie aplikacji wielowarstwowych" i (czasem) w ramach niego są 2 przedmioty do wyboru. Trzeba wybrać jeden z tych dwóch. W innych blokach może być więcej, jak np. "Zaawansowane zagadnienia matematyki" to blok obieralny na IiSI na magisterce gdzie wybrać trzeba jeden z coś koło 6 przedmiotów.
 
@@ -569,11 +570,34 @@ Jak się pisze inżynierkę, to na ostatnim semestrze jest taki śmieszny przedm
 
 
 ## Obrona
-Jak się ma zdane wszystkie przedmioty i złoży się pracę w [APD](https://apd.usos.pw.edu.pl), to wyznaczany jest termin obrony. Na obronie robi się krótką prezentację o swojej pracy (~10 minut). Potem komisja zadaje 3 pytania z całych stidów (jedno ma być luźno związane z pisaną pracą). Na każde z nich trzeba jakoś odpowiedzieć - ja powiecie "nie wiem", to oblewacie obronę i trzeba powtarzać całą obronę. Infa na dysku ma wspaniały plik z pytaniami, jakie były na obronach - cudowne źródło do nauki. IiAD ma jakieś tam coś tam jest. Matma nie wiem.
+Jak się ma zdane wszystkie przedmioty i złoży się pracę w [APD](https://apd.usos.pw.edu.pl), to wyznaczany jest termin obrony. Skład komisji zna się jakoś tydzień przed (jest na APD), więc można się przygotować bardziej z tego, co Ci z komisji prowadzili / interesują się (jak mi się trafił szanowny Pan Pytlak na obronę, to wiedziałem, że dostanę pytanie jakieś o optymalizację).
+
+Na obronie robi się krótką prezentację o swojej pracy (~10 minut). Jak komisja się zaciekawi tą waszą pracą, to mogą z wami chwilę tak luźno pogadać o niej.
+
+Jeśli macie pracę wieloosobową i ktoś z was nie ma jeszcze jakiegoś przedmiotu zdanego (np. statę xd), to ta osoba w tym momencie wychodzi i nie idzie dalej. Swoją dalszą część obrony będzie miała, jak zdobędzie "absolutorium", czyli jak zda wszystkie przedmioty.
+
+Później komisja zadaje pytania z całych studiów. Odpowiada się w kolejności alfabetycznej po nazwiskach. Są 3 pytania (jedno ma być luźno związane z pisaną pracą). Na każde z nich trzeba jakoś odpowiedzieć - jak powiecie "nie wiem", to oblewacie obronę i trzeba powtarzać całą obronę. Infa na dysku ma wspaniały plik z pytaniami, jakie były na obronach - cudowne źródło do nauki. IiAD ma jakieś, ale to średnie IMO. Matma nie wiem.
+
+Dają te 3 pytania tak jakby na raz i ma się chwilę na przemyślenie. Komisja mówi, żeby sobie przemyśleć na spokojnie, ale czuć taką atmosferę presji TBH. Jakby student się 5 minut zastanawiał, to zdaje mi się, że komisja by takiego delikwenta pośpieszyła. Odpowiadać można w dowolnej kolejności. Jeśli bronisz inżyniera, to raczej oni chcą zobaczyć, że coś tam umiesz i rozumiesz, a nie jakieś wzory dokładne - jak chciałem coś na tablicy napisać, to powiedzieli, że nie ma potrzeby i idea wystarczy xd. Na obronie licencjatu może się trafić pytanie o jakiś prosty dowód albo definicję (np. czym jest metryka).
+
+Parę razy w kuluarach rozmawiałem z ludźmi, co w komisjach egzaminacyjnych siedzą i oni twierdzą, że jak ktoś do tego momentu dochodzi, no to znaczy, że ogarnięty/a i podpowiadają. Starają się zadawać takie pytania, żeby student zdał tę obronę.
+
+Gdy wszyscy odpowiedzą na swoje 3 pytania, to komisja się naradza. Trwa to... 3 minuty? Potem was razem wołają i ogłaszają oceny. Kurtyna.
+
+### Rady
+Przed obroną jak przed bitwą
+Wyspać się, najeść się, wysrać się
+To chyba najważniejsza rada
+
+Spójrz na obronę z perspektywy komisji: Przychodzi student i chcesz, żeby on zdał. Powiedzmy, że na pytanie z dziedziny MSO zaczyna coś odpowiadać o macierzy daszkowej i wspomina, że ona ma rząd p. No to super, bo możesz się go dopytać, dlaczego ta macierz ma rząd p. Sam zaczął o tym gadać, więc to jest dziedzina, z której można go dopytać o szczegóły. Jest duża szansa, że będzie wiedział.
+
+Więęęęęc...
+
+Jeśli nie chcesz pytania z algebry, to staraj się jakoś lawirować, żeby nie zahaczyć o to. Jeśli jest jakaś dziedzina, której nie lubisz, to nie pakować się w nią.
+
+### Po wznowieniu
 
 Jak się wznawiasz, a w międzyczasie zmienił się program studiów, to musisz zrobić te przedmioty, co się nowe pojawiły albo zmieniły. Np. na informatyce na magisterce MSI dodali w 2021 przedmiot "Deep Learning Methods" i usunęli fizykę. Jednak jeśli ktoś zrobił przedmiot fizyka, a potem nie obronił się odpowiednio szybko, to potem i tak musiał dodatkowo ten przedmiot "Deep Learning Methods" robić.
-
-Jeśli się pracę pisało w kilka osób, to może się zdarzyć, że jedna osoba ma już wszystko zdane i chce się obronić, a druga ma jeszcze jakiś przedmiot (np. statę xd) do zdania. Wtedy organizuje się obronę i wszyscy autorzy przychodzą i prezentują pracę, ale tylko ci, co mają wszystko zdane, dostają pytania z całych studiów - tylko oni mogą się w pełni obronić. Pozostali dostaną własny termin własnej obrony, gdy zdadzą wszystkie przedmioty.
 
 
 ## Samouczek
