@@ -46,6 +46,7 @@ Czyli poradnik dla studentów MiNI
 23. [Erasmus](#Erasmus)
 	- [ATHENS](#ATHENS)
 24. [Koła Naukowe](#Koła-Naukowe)
+25. [Tutornia](#Tutornia)
 20. [Randomowe](#Randomowe)
 21. [TODO](#TODO)
 
@@ -95,6 +96,7 @@ Rozdziały są w losowej kolejności - w zależności od tego, jak chciało mi s
 10. [Regulamin studiów PW](https://www.bip.pw.edu.pl/Wewnetrzne-akty-prawne/Regulaminy/Regulamin-studiow-w-Politechnice-Warszawskiej2)
 11. [Grupa MiNI ogłoszenia](https://www.facebook.com/groups/miniogloszenia/)
 12. [Regulamin studiów PW](https://www.bip.pw.edu.pl/Wewnetrzne-akty-prawne/Regulaminy/Regulamin-studiow-w-Politechnice-Warszawskiej2)
+13. [Link do aktualnego planu Tutorni](https://docs.google.com/spreadsheets/d/1Jl2q1mRT4KoS1ojrOxRr_x0bP_rbsIl-yeA14u2Zq0E/edit#gid=1035883871), patrz [Tutornia](#Tutornia)
 
 
 ## Organizacja zajęć na MiNI PW
@@ -626,6 +628,9 @@ Zachęcam do dołączenia do jakiegoś koła. Dużo się można nauczyć i popra
 
 ## Tutornia
 Tutornia to po prostu darmowe korepetycje, które studenci MiNI wyższych lat udzielają młodrzym kolegą i koleżanką. Zapraszam do korzystania. Dzieje się to w ramach działania Koła Naukowego Matematyków.
+
+[Link do aktualnego planu Tutorni](
+https://docs.google.com/spreadsheets/d/1Jl2q1mRT4KoS1ojrOxRr_x0bP_rbsIl-yeA14u2Zq0E/edit#gid=1035883871)
 
 
 ## Randomowe
