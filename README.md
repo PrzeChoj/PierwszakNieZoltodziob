@@ -43,6 +43,8 @@ Czyli poradnik dla studentów MiNI
 23. [Praca dyplomowa](#Praca-dyplomowa)
 24. [Obrona](#Obrona)
 22. [Samouczek](#Samouczek)
+23. [Erasmus](#Erasmus)
+	- [ATHENS](#ATHENS)
 20. [Randomowe](#Randomowe)
 21. [TODO](#TODO)
 
@@ -606,6 +608,15 @@ Dla chętnych!!! Ja nie wiem czemu oni twierdzą na tej stronie, że jest on obo
 Powtórka wiedzy z liceum. Za moich czasów oni coś tam gadali głupoty, że za to są jakieś punkty z aktywności, czy coś, ale tak nie było. Słyszałem jednak, że z Analizy Matematycznej 1 dla IIaD Dembińska mówiła, że podciągnie z 2 do 3, jeśli komuś brakowało 1 punkta (może 2 też, nie pamiętam), a miał 5 z samouczka.
 
 Jest taki test 15 pytań zamkniętych wielokrotnego wyboru. Jeśli zdasz na 80%, to ok. Jak nie, to "musisz" to 5 razy zrobić. Matma jest podzielona na podstawę i rozszerzenie, a fizyka podobno nie.
+
+
+## Erasmus
+Można na jeden semestr wyjechać za granicę na inną uczelnię. Zazwyczaj na naszym wydziale jest więcej miejsc niż chętnych do wyjazdu, bo nasz wydział dobrze uczy i studenci nie chcą go opuszczać ¯\\\_(ツ)_/¯
+
+Jest z tym trochę papierologii do załatwienia. Trzeba zrobić tak, żeby te przedmioty co się nie uda zaliczyć na MiNI, bo się będzie za granicą, to one realizują jakieś "efekty nauczania" i trzeba znaleść jakiś na tej naszej uczelni docelowej, który też ten efekt realizuje. Trzeba się z dziekanatem dogdać na ten temat, ale się da.
+
+### ATHENS
+O tym nie wiem zbyt wiele. Jest to taki jakby Erasmus, ale tylko na tydzień się wyjeżdża i się robi jeden przedmiot za 2, albo 3 ECTS. Tu raczej ciężej się dostać, bo jest mniej miejsc.
 
 
 ## Randomowe
