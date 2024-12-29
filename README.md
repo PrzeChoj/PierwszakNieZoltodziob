@@ -589,7 +589,10 @@ Parę razy w kuluarach rozmawiałem z ludźmi, co w komisjach egzaminacyjnych si
 
 Gdy wszyscy odpowiedzą na swoje 3 pytania, to komisja się naradza. Trwa to... 3 minuty? Potem was razem wołają i ogłaszają oceny. Kurtyna.
 
-### Rady
+### Kiedy zacząć się uczyć na obronę?
+Ja polecam kilka (2?, 3?) miesięcy przed poczyć się na wszystkie możliwe pytania. Potem jak się zna skład komisji, to ma się jeszcze tydzień szczegółowiej na te akurat co są konikami tej komisji. Zdarza się, że ktoś z komini zadaje pytanie nie ze swojej dziedziny, więc trzeba być na to gotowym (np. pytanie o paradygmat programowania obiektowego jest takim pytaniem losowo się czasem pojawiającym). A poza tym zawsze ktoś z komisji może się rozchorować i przyjdzie ktoś inny. Więc polecam choć trochę się przygotować na wszystkie pytania.
+
+### Rady na obronę
 Przed obroną jak przed bitwą
 Wyspać się, najeść się, wysrać się
 To chyba najważniejsza rada
