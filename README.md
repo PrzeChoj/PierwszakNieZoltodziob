@@ -43,7 +43,7 @@ Czyli poradnik dla studentów MiNI
 23. [Praca dyplomowa](#Praca-dyplomowa)
 24. [Obrona](#Obrona)
 22. [Samouczek](#Samouczek)
-23. [Wymiany](#Wymiany)
+23. [Wymiany](#wymiany---erasmus-athen-etc)
 	- [Erasmus](#Erasmus)
 	- [ATHENS](#ATHENS)
 25. [Koła Naukowe](#Koła-Naukowe)
