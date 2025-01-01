@@ -615,15 +615,24 @@ Powtórka wiedzy z liceum. Za moich czasów oni coś tam gadali głupoty, że za
 
 Jest taki test 15 pytań zamkniętych wielokrotnego wyboru. Jeśli zdasz na 80%, to ok. Jak nie, to "musisz" to 5 razy zrobić. Matma jest podzielona na podstawę i rozszerzenie, a fizyka podobno nie.
 
+## Wymiany - Erasmus, Athen, etc
+Wyjazdy to super doświadczenie, naprawdę warto. Są krótkie - tygodniowy Athens w każdym semestrze, oraz dłuższe - do 2 semestrów na Erasmusie.
 
-## Erasmus
-Można na jeden semestr wyjechać za granicę na inną uczelnię. Zazwyczaj na naszym wydziale jest więcej miejsc niż chętnych do wyjazdu, bo nasz wydział dobrze uczy i studenci nie chcą go opuszczać ¯\\\_(ツ)_/¯
+### Erasmus
+Można na jeden (lub dwa) semestr wyjechać za granicę na inną uczelnię. Zazwyczaj na naszym wydziale jest więcej miejsc niż chętnych do wyjazdu, bo nasz wydział dobrze uczy i studenci nie chcą go opuszczać (lub nie wiedzą, co tracą wyjeżdżając) ¯\\\_(ツ)_/¯
 
-Jest z tym trochę papierologii do załatwienia. Trzeba zrobić tak, żeby te przedmioty co się nie uda zaliczyć na MiNI, bo się będzie za granicą, to one realizują jakieś "efekty nauczania" i trzeba znaleźć jakiś na tej naszej uczelni docelowej, który też ten efekt realizuje. Trzeba się z dziekanatem dogadać na ten temat, ale się da.
+Jest trochę papierologii - trzeba możliwie dopasować przedmioty realizowane na Erasmusie do przedmiotów normalnie realizowanych na MiNI. Opiekuni kierunków są różnie elastyczni, ale starają się coś pomóc i wykombinować, by student mógł na wyjazd jechać. 
+
+Stypendium jest (od [CWM PW](https://www.cwm.pw.edu.pl/)), raczej nie pokryje całych kosztów i potrafi przyjść nieco opóźnione. Wysokość zależy od kraju docelowego i długości, ale znacząco pomaga.
 
 ### ATHENS
-O tym nie wiem zbyt wiele. Jest to taki jakby Erasmus, ale tylko na tydzień się wyjeżdża i się robi jeden przedmiot za 2, albo 3 ECTS. Tu raczej ciężej się dostać, bo jest mniej miejsc.
+Wymiana trwa tydzień i polega na tym, że przez 5 dni się ma np. 5h zajęć codziennie z jednego przedmiotu, a na koniec zaliczenie - prezentacja/test/nic (zależy od wybranego przedmiotu). Po zajęciach i w weekendy przed/po są organizowane aktywności i atrakcje dla przyjezdnych studentów - integracje, zwiedzanie etc. W skrócie - jest dobra zabawa ;P
 
+Przedmioty co semestr są różne: [lista tutaj](https://register.athensnetwork.eu/courses). Lokalizacji jest sporo i każdy znajdzie coś dla siebie, ale wybiera się listę 3-6 preferencji, gdzie by się chciało jechać, więc na pewno gdzieś się pojedzie. Sama strona wymiany jest [tutaj](http://athensnetwork.eu/athens-programme.html).
+
+Rejestracja jest prosta, 2 razy w roku na początku semestrów (warto jeździć wiele razy). Stypendium nie jest symboliczne (>1000 PLN w 2023r.), ale wypłacane jest dopiero po wyjeździe (np. w lipcu). 
+
+ECTS za wymianę są 2 i może to zaliczyć pasujący tematycznie przedmiot (np. obierak) na MiNI za 2 ECTS (można próbować coś za 3 lub 4, ale warto mieć wtedy już nadmiar ECTS, np. z wcześniejszych wymian Athens).
 
 ## Koła Naukowe
 Zachęcam do dołączenia do jakiegoś koła. Dużo się można nauczyć i popracować nad ciekawymi projektami. Zachęcam w październiku pójść na Konik, na którym w GG się wystawiają Koła Naukowe i można sobie znaleźć coś dla siebie. Na MiNI jest Kucyk, czyli MiNI Konik, gdzie wystawiają się Koła Naukowe z naszego wydziału.
