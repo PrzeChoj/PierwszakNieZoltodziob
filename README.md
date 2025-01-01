@@ -617,7 +617,7 @@ Powtórka wiedzy z liceum. Za moich czasów oni coś tam gadali głupoty, że za
 Jest taki test 15 pytań zamkniętych wielokrotnego wyboru. Jeśli zdasz na 80%, to ok. Jak nie, to "musisz" to 5 razy zrobić. Matma jest podzielona na podstawę i rozszerzenie, a fizyka podobno nie.
 
 ## Wymiany - Erasmus, Athen, etc
-Wyjazdy to super doświadczenie, naprawdę warto. Są krótkie - tygodniowy Athens w każdym semestrze, oraz dłuższe - do 2 semestrów na Erasmusie.
+Niekrórzy twierdzą, że "wyjazdy to super doświadczenie, naprawdę warto". Są krótkie - tygodniowy Athens w każdym semestrze, oraz dłuższe - do 2 semestrów na Erasmusie.
 
 ### Erasmus
 Można na jeden (lub dwa) semestr wyjechać za granicę na inną uczelnię. Zazwyczaj na naszym wydziale jest więcej miejsc niż chętnych do wyjazdu, bo nasz wydział dobrze uczy i studenci nie chcą go opuszczać (lub nie wiedzą, co tracą wyjeżdżając) ¯\\\_(ツ)_/¯
