@@ -43,10 +43,11 @@ Czyli poradnik dla studentów MiNI
 23. [Praca dyplomowa](#Praca-dyplomowa)
 24. [Obrona](#Obrona)
 22. [Samouczek](#Samouczek)
-23. [Erasmus](#Erasmus)
+23. [Wymiany](#Wymiany)
+	- [Erasmus](#Erasmus)
 	- [ATHENS](#ATHENS)
-24. [Koła Naukowe](#Koła-Naukowe)
-25. [Tutornia](#Tutornia)
+25. [Koła Naukowe](#Koła-Naukowe)
+26. [Tutornia](#Tutornia)
 20. [Randomowe](#Randomowe)
 21. [TODO](#TODO)
 
@@ -623,7 +624,7 @@ Można na jeden (lub dwa) semestr wyjechać za granicę na inną uczelnię. Zazw
 
 Jest trochę papierologii - trzeba możliwie dopasować przedmioty realizowane na Erasmusie do przedmiotów normalnie realizowanych na MiNI. Opiekuni kierunków są różnie elastyczni, ale starają się coś pomóc i wykombinować, by student mógł na wyjazd jechać. 
 
-Stypendium jest (od [CWM PW](https://www.cwm.pw.edu.pl/)), raczej nie pokryje całych kosztów i potrafi przyjść nieco opóźnione. Wysokość zależy od kraju docelowego i długości, ale znacząco pomaga.
+Stypendium jest (od [CWM PW](https://www.cwm.pw.edu.pl/)), raczej nie pokryje całych kosztów i potrafi przyjść nieco opóźnione. Wysokość zależy od kraju docelowego i długości, ale znacząco pomaga. Oficjalnie to ma być zwrot jedynie za różnicę w kosztach życia między Polską, a krajem docelowym.
 
 ### ATHENS
 Wymiana trwa tydzień i polega na tym, że przez 5 dni się ma np. 5h zajęć codziennie z jednego przedmiotu, a na koniec zaliczenie - prezentacja/test/nic (zależy od wybranego przedmiotu). Po zajęciach i w weekendy przed/po są organizowane aktywności i atrakcje dla przyjezdnych studentów - integracje, zwiedzanie etc. W skrócie - jest dobra zabawa ;P
