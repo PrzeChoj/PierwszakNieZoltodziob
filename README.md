@@ -237,7 +237,7 @@ Bardziej szczegółowe informacje o stypendiach:
 		* Straty spowodowane pożarem, powodzią, innymi wypadkami
 		* Śmierć najbliższego członka rodziny
 		* Rzeczy zakupione dla nowonarodzonego dziecka studenta
-	e) Ostateczną decyję o przyznaniu i wielkości zapomogi dokonuje Wydziałowa Komisja Stypendialna. Część jej członków to studenci, z którymi można pogadać, jeśli się nie wie, czy to, co chcesz kupić, nadaje się na zapomogę. Potpytaj w WRS.
+	e) Ostateczną decyzję o przyznaniu i wielkości zapomogi dokonuje Wydziałowa Komisja Stypendialna. Część jej członków to studenci, z którymi można pogadać, jeśli się nie wie, czy to, co chcesz kupić, nadaje się na zapomogę. Potpytaj w WRS.
 3. Socjalne
 	- W 2022/2023 stypendium było dla studentów, których rodzin dochód miesięczny na osobę nie przekraczał 1051.70 PLN
 	- Sporo papierów trzeba załatwić
@@ -276,7 +276,7 @@ Pod ten rozdział podpada też Erasmus, ale ten program zasługuje na własny ro
 ### Centrum Studiów Zaawansowanych (CSZ)
 To taka śmieszna organizacja w ramach PW, co wymyśla sobie przedmioty. Zazwyczaj są przeznaczone dla doktorantów i studenci magisterki mogą się zapisać. Można sobie zerknąć jaką mają [ofertę w tym semie](http://www.konwersatorium.pw.edu.pl/oferta/w_podstawowe.html). Zazwyczaj są po 2 albo 3 ECTS. Ciekawe są, bo to jedynie wykłady i potem egzamin z nich.
 
-W tym semie podobmo jest jakiś całkowicie dla studentów pierwszego i drugiego stopnia "W Poszukiwaniu Teraźniejszości" za 2 ECTS.
+W tym semie podobno jest jakiś całkowicie dla studentów pierwszego i drugiego stopnia "W Poszukiwaniu Teraźniejszości" za 2 ECTS.
 
 
 <a name="Samorząd-Studentów-Politechniki-Warszawskiej-SSPW"></a>
@@ -635,11 +635,11 @@ https://docs.google.com/spreadsheets/d/1Jl2q1mRT4KoS1ojrOxRr_x0bP_rbsIl-yeA14u2Z
 
 
 ## Randomowe
-Ogłoszenia o rzeczach, które dzieją się na wydziale najszęciej są wysyłane mailem. Sprawdzajcie swoją skrzynkę Outlook regularnie. Rzeczy dla studenów są rzucane przez [WRS na ich Fanpage](https://www.facebook.com/groups/1898215117122909/user/100063529845505/), albo na grupę na FB [MiNI ogłoszenia](https://www.facebook.com/groups/miniogloszenia). Niektóre rzeczy są na kartkach wieszane na parterze w różnych gablotkach.
+Ogłoszenia o rzeczach, które dzieją się na wydziale najczęściej są wysyłane mailem. Sprawdzajcie swoją skrzynkę Outlook regularnie. Student ma obowiązek sprawdzać swoją skrzynkę mailową. Jeśli wydział coś wysyła na maila, to znaczy, że student o tym wie. Rzeczy dla studentów są rzucane przez [WRS na ich Fanpage](https://www.facebook.com/groups/1898215117122909/user/100063529845505/), albo na grupę na FB [MiNI ogłoszenia](https://www.facebook.com/groups/miniogloszenia). Niektóre rzeczy są na kartkach wieszane na parterze w różnych gablotkach.
 
 Co do zasady, policja i pozostałe służby pożądkowe nia mają wstępu na teren uczelni wyższych w Polsce. Mogą wejść jedynie za zgodą Rektora, albo ewentualnie, jeśli jest uzasadnione podejrzenie niebezpieczeństwa. Od 30 lat zdarzyło się raz, że Policja wtargnęła na uczelnię nieuprawniona - w 2020 na PW. Media się na ten temat rozpisywały - polecam poczytać.
 
-Na MiNI jest taka kultura, że studenci czasem prowadzą zajęcia. Taką ofertę dostają najlepsi studenci na magisterce jako w pewnym sensie nagrodę. Regulamin wynagrodzeń na PW mówi, że w ramach "WYNAGRODZENIE NAUCZYCIELI AKADEMICKICH ZA GODZINY PONADWYMIAROWE" osoba zatrudniona na stanowisko "Asystent" zarabia 70 PLN / godzinę tablicową i tak jest to rozliczane przez wydział. Najłatwiej joko student dostać do prowadzenia jakieś laby albo projekt, ewentualnie ćwiczenia z matematyki na innych wdyziałach.
+Na MiNI jest taka kultura, że studenci czasem prowadzą zajęcia. Taką ofertę dostają najlepsi studenci na magisterce jako w pewnym sensie nagrodę. Regulamin wynagrodzeń na PW mówi, że w ramach "WYNAGRODZENIE NAUCZYCIELI AKADEMICKICH ZA GODZINY PONADWYMIAROWE" osoba zatrudniona na stanowisko "Asystent" zarabia 70 PLN / godzinę tablicową i tak jest to rozliczane przez wydział. Najłatwiej jako student dostać do prowadzenia jakieś laby albo projekt, ewentualnie ćwiczenia z matematyki na innych wydziałach.
 
 
 
